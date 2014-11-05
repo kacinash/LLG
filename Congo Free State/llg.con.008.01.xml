@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.008.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>The Story of the Congo Free State</title>
+<author n="Wack, Henry Wellington, 1869-1954">Henry Wellington Wack</author>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+ 
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+ 
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.con.008.01</idno>
+</publicationStmt>
+ 
+<sourceDesc>
+<bibl>
+<title level="m" type="main">The Story of the Congo Free State: Social, Political, and Economic Aspects of the Belgian System of Government in Central Africa</title>
+<author n="Wack, Henry Wellington, 1869-1954">Henry Wellington Wack</author>
+<date when="1905">1905</date>
+<publisher>G. P. Putnam's Sons</publisher>
+<publisher>The Knickerbocker Press</publisher>
+<pubPlace>New York</pubPlace>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+ 
+<langUsage>
+<language ident="en">English</language>
+</langUsage> 
+ 
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Congo Free State</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="labels">
+<term/>
+</keywords> 
+ 
+<keywords scheme="getty" n="places">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+ 
+<classCode scheme="original">
+<ref type="analysis" target="llg.con.008.02">Analysis</ref>
+</classCode>
+ 
+</textClass>
+</profileDesc>
+   
+<revisionDesc>
+<change when="2014-08-12" who="#kln">Initial transcription and encoding.</change>
+</revisionDesc>
+ 
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<head type="main">The Story of the Congo Free State</head>
+
+<head type="sub">Social, Political, and Economic Aspects of the Belgian System of Government in Central Africa</head>
+
+<head type="sub">By Henry Wellington Wack</head>
+
+<p rend="subtitle">Preface</p>
+
+<p>As a student of Mid-African affairs for the past seven years, and a close observer of the rapid progress toward complete civilisation now being made in that part of the world, I have felt it my duty to lay before my countrymen the true and complete story of the conception, formation, and development of the Congo Free State.</p>
+
+<p>At a period of such bitter controversy concerning the government of the Congo Free State as the present, it is necessary that I should explain the circumstances under which I add this volume to the literature on that subject.</p>
+
+<p>During a residence of several years in the United Kingdom, I could not fail to observe the growth there of an organised campaign against the Congo Free State. That a small section of the British public, interested in the rubber trade, should by subtle means seek to delude or should even succeed in deluding, the great British nation so completely as to obtain general credence for its stories of cruelty and oppression alleged against King Leopold's government failed to move me. It was not my concern, while enjoying the hospitality of England, to criticise the way in which her religious organisations were being used to further the selfish aims of a small clique of Liverpool merchants. But when, within the past year, I perceived that the campaign of calumny against the Congo Free State was being extended to the United States, I could not longer regard the phenomenon with a merely passive interest. It occurred to me that my knowledge of Mid-African affairs might enable me to place before the American people a complete statement of the actual facts of the Congo Free State, and that my self-imposed task could not fail to be of value at a time when interested partisans were endeavouring to deceive them.</p>
+
+<p>Having obtained an introduction to the King of Belgians, I informed his Majesty that I believed the American people would much esteem the true history of the affairs of the Congo written by an American, and that if his Majesty would grant me access to the archives of the Administration of the Congo Free State in Brussels, and leave me free to write the story of his enterprise in my own way, absolutely without interference or suggestion from any of his ministers or himself, I would undertake the task on my own account.</p>
+
+<p>His Majesty, having considered my credentials and the nature of my introduction, in due course informed me that all the documents in the Congo Administration Office were open to my inspection. His Majesty added that he had no fear but that the American people, when informed of the truth about the Congo, would appreciate, as he did, that the Congolese civilisation movement is the greatest colonising success in the history of the world. I was admitted into the offices of the Congo Administration and spent many weeks there searching for, translating, and copying documents. Those which had already been translated into English, I adopted in the form in which I found them. When I left Brussels, I again indicated to his Majesty's ministers, and to his Majesty himself, that I should write the story in my own way. I brought away many boxes of memoranda and documents and at once began to work upon The Story of the Congo Free State. I have not submitted the manuscript or proofs to any person connected, either directly or indirectly, with his Majesty, with the Congo Free State, or with the Belgian Government, neither have I in any way communicated with his Majesty in reference to what I have written. For all I know, his Majesty may entirely disapprove of this history. I should, of course, regret exceedingly to learn that I had displeased the royal host who had extended to me the hospitality of his country during a long and interesting visit. But as I am under no obligation whatever to the Congo officials, nor to his Majesty, and as my original intention of writing an independent history of the Congo was made quite clear to both, I regard myself as absolved from blame should the King of the Belgians disapprove of the straight-forward story here presented.</p>
+
+<p>That this story is true, I have satisfied myself in every particular. It is the story of a great colonising undertaking founded upon modern social science. It can hardly fail to interest the reader who admires the courage and daring which small countries sometimes display in extending their borders and establishing new markets.</p>
+
+<p>Should this book in any way assist my countrymen in thinking about the underlying motives in the campaign against the Congo, and bring them to a knowledge of the real issues at stake, my labour will be sufficiently rewarded.</p>
+
+<p>I take this opportunity to acknowledge my obligation to the works of Messrs. Stanley, Descamps, Boulger, Johnston, Cattier, and Wauters, and to all who have kindly assisted me with information.</p>
+
+<p>H. W. W., New York, January 2, 1905.</p>
+
+<gap reason="sampling" extent="about twenty pages">
+<desc>irrelevant to author's discussion</desc>
+</gap>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI>
