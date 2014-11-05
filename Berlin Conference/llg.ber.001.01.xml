@@ -65,6 +65,10 @@
 <term>Document</term>
 </keywords>
 
+<keywords scheme="original" n="subtype">
+<term>Act</term>
+</keywords>
+
 <keywords scheme="viaf" n="people">
 <term>Kasson, John A. 1822-1910</term>
 <term>Sanford, Henry Shelton, 1823-1891</term>
@@ -111,6 +115,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2014-11-05" who="#kln">added subtype</change>
 <change when="2014-07-02" who="#kln">modified encoding and document structure</change>
 <change when="2014-05-22" who="#kln">Corrected geogFeat to geogName.</change>
 <change when="2014-05-05" who="#kln">Edited for new TEI and file naming structures.</change>
@@ -142,7 +147,7 @@
 <list type="simple">
 <head>The President of the United States of America:</head>
 
-<item>Mr. <persName key="kasson.john">John A. Kasson</persName>, Envoy Extraordinary and Minister Plenipotentiary of the United States near His Majesty the Emperor of Germany, King of Prussia, and</item>
+<item>Mr. John A. Kasson, Envoy Extraordinary and Minister Plenipotentiary of the United States near His Majesty the Emperor of Germany, King of Prussia, and</item>
 <item>Mr. Henry S. Sanford, formerly Minister;</item>
 </list>
 
@@ -585,7 +590,7 @@ same regime as the river of which they are tributaries.</p>
 <p>The same regime shall be applied to the rivers and streams as also
 to the lakes and canals of the territories defined by Article 1, paragraphs 2 and 3.</p>
 
-<p>The attributions of the <orgName key="int.com">International Commission of the Congo</orgName> however shall not extend over the said rivers, streams, lakes and canals,
+<p>The attributions of the International Commission of the Congo however shall not extend over the said rivers, streams, lakes and canals,
 except with the assent of the States under the sovereignty of which
 they are placed. It is well understood also that for the territories mentioned in Article 1, paragraph 3, the consent of the sovereign States on
 which these territories depend, remain reserved.</p>
@@ -1063,7 +1068,7 @@ eight hundred eighty five.</p>
 <list type="simple">
 <item>[L. S.] John A. Kasson.</item>
 <item>[L. S.] H. S. Sanford.</item>
-<item>[L. S.] v. Bismarck>.</item>
+<item>[L. S.] v. Bismarck.</item>
 <item>[L. S.] Busch.</item>
 <item>[L. S.] v. Kusserow.</item>
 <item>[L. S.] Szechenyi.</item>

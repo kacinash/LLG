@@ -59,23 +59,33 @@
 <keywords scheme="original" n="theme">
 <term>Berlin Conference</term>
 </keywords>
+
 <keywords scheme="original" n="type">
 <term>Document</term>
 </keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Book</term>
+</keywords>
+
 <keywords scheme="viaf" n="people">
 <term/>
 </keywords>
+
 <keywords scheme="getty" n="places">
 <term>Congo Free State</term>
 <term>Congo Basin</term>
 <term>German African Colonies</term>
 </keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="language">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -87,6 +97,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2014-11-05" who="#kln">added subtype</change>
 <change when="2014-07-02" who="#kln">modified encoding and document structure</change>
 <change when="2014-06-13" who="#kln">encoded transcription of excerpts</change>
 </revisionDesc>

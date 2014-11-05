@@ -57,21 +57,31 @@
 <keywords scheme="original" n="theme">
 <term>Berlin Conference</term>
 </keywords>
+
 <keywords scheme="original" n="type">
 <term>Document</term>
 </keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Article</term>
+</keywords>
+
 <keywords scheme="viaf" n="people">
 <term/>
 </keywords>
+
 <keywords scheme="getty" n="places">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="language">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -83,6 +93,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2014-11-05" who="#kln">added subtype</change>
 <change when="2014-08-05" who="#kln">modified encoding and document structure</change>
 <change when="2014-07-02" who="#kln">modified encoding and document structure</change>
 <change when="2014-05-05" who="#kln">Edited for new TEI and file naming structures.</change>
