@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Conditions in the Congo State.</title>
+<title>Conditions in the Congo State</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -62,6 +62,10 @@
 <term>Document</term>
 </keywords>
 
+<keywords scheme="original" n="subtype">
+<term>Book</term>
+</keywords>
+
 <keywords scheme="viaf" n="people">
 <term/>
 </keywords>
@@ -92,6 +96,7 @@
 </profileDesc>
    
 <revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-08-26" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
  

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Chicago Daily Tribune, "Leland's Letter. The Waste Lands of the World Now in Process of Distribution Among Nations..."</title>
+<title>Chicago Daily Tribune, "Leland's Letter: The Waste Lands of the World Now in Process of Distribution Among Nations..."</title>
 <author n="Leland, Charles Godfrey, 1824-1903">Charles G. Leland</author>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
@@ -58,21 +58,31 @@
 <keywords scheme="original" n="theme">
 <term>Berlin Conference</term>
 </keywords>
+ 
 <keywords scheme="original" n="type">
 <term>Document</term>
 </keywords>
+ 
+<keywords scheme="original" n="subtype">
+<term>Newspaper</term>
+</keywords>    
+ 
 <keywords scheme="viaf" n="people">
 <term/>
 </keywords>
+ 
 <keywords scheme="getty" n="places">
 <term/>
 </keywords>
+ 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
+ 
 <keywords scheme="original" n="language">
 <term/>
 </keywords>
+ 
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -84,6 +94,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-02" who="#kln">modified encoding and document structure</change>
 <change when="2014-06-26" who="#kln">encoded transcription</change>
 </revisionDesc>

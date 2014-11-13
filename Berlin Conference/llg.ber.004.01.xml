@@ -67,7 +67,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Article</term>
+<term>Journal</term>
 </keywords>
 
 <keywords scheme="viaf" n="people">
@@ -96,7 +96,7 @@
 </profileDesc>
    
 <revisionDesc>
-<change when="2014-11-05" who="#kln">added subtype</change>
+<change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-08-05" who="#kln">Edited for new TEI and file naming structures.</change>
 <change when="2014-05-16" who="#kln">Edited for new TEI and file naming structures.</change>
 <change when="2014-03" who="#kln">Revised earlier version of transcription and encoding. Edited for new mapping points style.</change>

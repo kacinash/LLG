@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>New York Times, 1906-12-24, "An International Question."</title>
+<title>New York Times, "An International Question"</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -61,6 +61,10 @@
 <term>Document</term>
 </keywords>
 
+<keywords scheme="original" n="subtype">
+<term>Newspaper</term>
+</keywords>
+
 <keywords scheme="viaf" n="people">
 <term/>
 </keywords>
@@ -91,6 +95,7 @@
 </profileDesc>
    
 <revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-09-30" who="#kln">Initial encoding.</change>
 </revisionDesc>
  

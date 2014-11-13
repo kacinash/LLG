@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Stanley's Africa Then and Now</title>
+<title>Atlantic Monthly, "Stanley's Africa Then and Now"</title>
 <author n="Hubbard, James M.">James M. Hubbard</author>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
@@ -64,6 +64,10 @@
 <term>Document</term>
 </keywords>
 
+<keywords scheme="original" n="subtype">
+<term>Magazine</term>
+</keywords>
+
 <keywords scheme="viaf" n="people">
 <term/>
 </keywords>
@@ -94,6 +98,7 @@
 </profileDesc>
    
 <revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-10-02" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
  

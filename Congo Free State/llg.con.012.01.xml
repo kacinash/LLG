@@ -63,6 +63,10 @@
 <term>Document</term>
 </keywords>
 
+<keywords scheme="original" n="subtype">
+<term>Book</term>
+</keywords>
+
 <keywords scheme="viaf" n="people">
 <term/>
 </keywords>
@@ -93,6 +97,7 @@
 </profileDesc>
    
 <revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-08-26" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
  

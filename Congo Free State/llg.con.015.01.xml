@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>General Act of the Brussels Conference Relative to the African Slave Trade.</title>
+<title>General Act of the Brussels Conference Relative to the African Slave Trade</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -37,7 +37,7 @@
  
 <sourceDesc>
 <bibl>
-<title level="m" type="main">General Act of the Brussels Conference Relative to the African Slave Trade.</title>
+<title level="m" type="main">General Act of the Brussels Conference Relative to the African Slave Trade</title>
 <date when="1892">1892</date>
 <publisher>Harrison and Sons, St. Martin's Lane</publisher>
 <pubPlace>London</pubPlace>
@@ -59,6 +59,10 @@
 
 <keywords scheme="original" n="type">
 <term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Act</term>
 </keywords>
 
 <keywords scheme="viaf" n="people">
@@ -91,6 +95,7 @@
 </profileDesc>
    
 <revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-08-26" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
  

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>New York Times, 1905-03-04, "The Congo Free State."</title>
+<title>New York Times, "The Congo Free State"</title>
 <author n="Whiteley, James Gustavus">James Gustavus Whiteley</author>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
@@ -63,6 +63,10 @@
 <term>Document</term>
 </keywords>
 
+<keywords scheme="original" n="subtype">
+<term>Newspaper</term>
+</keywords>
+
 <keywords scheme="viaf" n="people">
 <term/>
 </keywords>
@@ -93,6 +97,7 @@
 </profileDesc>
    
 <revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-09-30" who="#kln">Initial encoding.</change>
 </revisionDesc>
  

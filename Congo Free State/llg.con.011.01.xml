@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>The Congo Slave State.</title>
+<title>The Congo Slave State</title>
 <author n="Morel, E.D. (Edmund Dene), 1873-1924">Edmund D. Morel</author>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
@@ -64,6 +64,10 @@
 <term>Document</term>
 </keywords>
 
+<keywords scheme="original" n="subtype">
+<term>Book</term>
+</keywords>
+
 <keywords scheme="viaf" n="people">
 <term/>
 </keywords>
@@ -94,6 +98,7 @@
 </profileDesc>
    
 <revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-08-22" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
  

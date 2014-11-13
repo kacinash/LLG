@@ -63,6 +63,10 @@
 <term>Document</term>
 </keywords>
 
+<keywords scheme="original" n="subtype">
+<term>Book</term>
+</keywords>
+
 <keywords scheme="viaf" n="people">
 <term/>
 </keywords>
@@ -93,6 +97,7 @@
 </profileDesc>
    
 <revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-08-26" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
  
@@ -133,7 +138,7 @@ unparalleled in its horror.</p>
 <p>The witnesses of the crime are of all nations, and there is no possibility
 of error concerning facts. There are British consuls like
 Casement, Thesiger, Mitchell and Armstrong, all writing in their
-O1liClal capacity with every detail of fact and date. There are Frenchmen
+official capacity with every detail of fact and date. There are Frenchmen
 like Pierre Mille and Félicien Challaye, both of whom have
 written books upon the subject. There are missionaries of many
 races -- Harris, Weeks and Stannard (British); Morrison, Clarke
@@ -145,7 +150,7 @@ Belgian commission, the evidence before which was suppressed
 because it was too dreadful for publication; finally, there is the incorruptible
 evidence of the kodak. Any American citizen who will
 glance at Mark Twain's "King Leopold's Soliloquy" will see some
-samples of that. A perusal of all of these sources of information .
+samples of that. A perusal of all of these sources of information 
 will show that there is not a grotesque, obscene or ferocious torture
 which human ingenuity could invent which has not been used against
 these harmless and helpless people.</p>

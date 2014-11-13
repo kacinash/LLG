@@ -65,6 +65,10 @@ States of America</title>
 <term>Document</term>
 </keywords>
 
+<keywords scheme="original" n="subtype">
+<term>Pamphlet</term>
+</keywords>
+
 <keywords scheme="viaf" n="people">
 <term/>
 </keywords>
@@ -95,6 +99,7 @@ States of America</title>
 </profileDesc>
    
 <revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-08-08" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
  
