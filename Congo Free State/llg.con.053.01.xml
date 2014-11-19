@@ -97,8 +97,9 @@
 </profileDesc>
    
 <revisionDesc>
+<change when="2014-11-19" who="#kln">finished encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
-<change when="2014-10-15" who="#kln">Initial transcription and encoding.</change>
+<change when="2014-10-15" who="#kln">initial transcription and encoding</change>
 </revisionDesc>
  
 </teiHeader>
@@ -350,7 +351,7 @@ Henry Lane Wilson.</p>
 
 <head type="sub">American Legation, Brussels, April 24, 1906.</head>
 
-<p>Sir: The department has been advised in my No. 70 of the agitation in Belgium against the present administration of the Kongo, of the debates in Parliament precipitated by the interpellation of Socialist and Liberal members, and of the rapidly growing sentiment in favor of the annexation of the KO!lgo to Belgium.</p> 
+<p>Sir: The department has been advised in my No. 70 of the agitation in Belgium against the present administration of the Kongo, of the debates in Parliament precipitated by the interpellation of Socialist and Liberal members, and of the rapidly growing sentiment in favor of the annexation of the Kongo to Belgium.</p> 
 
 <p>Soon after the publication of Mr. Cattier's book on the Kongo, and the debates and agitation following, Senator Wiener, the King's "avocat" and his special and most trusted adviser, was summoned to the Riviera, where the King has been passing the last four months, for consultation and review of the existing situation. Senator Wiener returned to Brussels yesterday, and to-day paid me a visit for the purpose of discussing some method of allaying the severe and apparently unjust criticisms made by a certain portion of the American press of the administration of the Kongo.</p>
 
@@ -392,7 +393,7 @@ Robert Bacon, Acting Secretary.</p>
 
 <head type="sub">April 16, 1906.</head> 
 
-<p>Dear Sir: The Foreign Christian Missionary Society, the representative of the Disciples of Christ, has been engaged for some ten yeurs in mission work on the Kongo. Our station Is at Bolgenl. We wish to branch out, but the State ofticials are not willing to sell us any land upon which to erect schools and chapels and homes and hospitals. This Is to confine our labors to one station. We believe that the action of the ofticlals is in violation of the spiritIt not the letter of the treaties. This SOCiety respectfully asks you to use your good oftices to the elfect that we may be able to buy land where needed tn the prosecution of our work. We shall be very grateful to you for any assistance you may render us In this time of need.</p> 
+<p>Dear Sir: The Foreign Christian Missionary Society, the representative of the Disciples of Christ, has been engaged for some ten years in mission work on the Kongo. Our station is at Bolgeni. We wish to branch out, but the State officials are not willing to sell us any land upon which to erect schools and chapels and homes and hospitals. This Is to confine our labors to one station. We believe that the action of the officials is in violation of the spirit if not the letter of the treaties. This Society respectfully asks you to use your good offices to the effect that we may be able to buy land where needed tn the prosecution of our work. We shall be very grateful to you for any assistance you may render us In this time of need.</p> 
 
 <p>On behalf of the society, I remain, etc.,<lb/>
 A. McLean.</p>
@@ -424,13 +425,13 @@ A. McLean.</p>
 
 <head type="sub">American Legation, Brussels, June 14, 1906.</head>
 
-<p>Sir: I have the honor to transmit herewith to the department two copies of the Bulletin Officiel de L'Etat Indépendant du Congo, contaming in the French text the report of the committee on reforms in the Kongo State, the decrees carrying the same into effect, and a letter from His Majesty King Leopold addressed to the secretaries general.</p>
+<p>Sir: I have the honor to transmit herewith to the department two copies of the Bulletin Officiel de L'Etat Indépendant du Congo, containing in the French text the report of the committee on reforms in the Kongo State, the decrees carrying the same into effect, and a letter from His Majesty King Leopold addressed to the secretaries general.</p>
 
 <p>I also inclose printed extracts in the English text of the decrees of the Sovereign, which have just been published in an English paper here. These decrees practically embody the whole of the measures advocated by the committee, and by the Sovereign's signature have de facto passed into law.</p> 
 
 <p>From a study of the decrees it will be noted that two important principles are laid down. The first of these secures to the natives the possession of the soil already occupied by them. The second principle prohibits the exercise of force in the collection of rubber, and substitutes therefor detention within certain limitations until the labor tax is discharged.</p> 
 
-<p>Concurrently with the issuance of the decrees His Majesty has pub≠lished an open letter to the secretaries general, which is considered in diplomatic circles to amount to a manifesto to the powers. It certainly is susceptible of that interpretation, but it may also -- and perhaps with more accuracy -- be described as an autocratic declaration to the Belgian people.</p> 
+<p>Concurrently with the issuance of the decrees His Majesty has published an open letter to the secretaries general, which is considered in diplomatic circles to amount to a manifesto to the powers. It certainly is susceptible of that interpretation, but it may also -- and perhaps with more accuracy -- be described as an autocratic declaration to the Belgian people.</p> 
 
 <p>Here follows a translation of the most significant parts of the King's letter: 
 
@@ -482,15 +483,31 @@ Henry Lane Wilson</p>
 
 <head type="main">Mr. Wilson to Mr. de Cuvelier, secretary-general of the Independent State of the Kongo, May 19, 1906.</head>
 
-<p>Mr. SECRETABy-GENEBAL: I am In receipt of a dispatch from the Department of State at Washington, InclOSing a copy of a letter from Mr. McLean, president of the Foreign Christian MI88lonary Society, of Cincinnati, In which the com≠plaint Is made that the officials of the Kongo Free State decline to sell land to the society for the location of schools, chapels, homes, and hospitals. Tbe station of this society Is at Bolengi, but no Information Is furnished as to the location of the land desired. ï 
-I will thank you, Mr. Secretary-General, for Information as to the present attitude of the Kongo Free State relative to appllcatlons of this character. I Inclose herewith a copy of the letter of Mr. McLean. 
-Please accept, etc., HENRY LANE WILSON. 
-[lncloBure 2-Tran8Jation.] 
-Mr. de ClIveller to Mr. Wilson, J,UW 16, 1906. 
-Mr. MINISTD: By your letter of May 19 last, your excellency has kindly brought to my knowledge the contents of a letter addressed by Mr. :\lcLean, president of the Foreign Christian MI88lonary Society, of Cincinnati, to his excellency the Secretary of State at Washington, In which Mr. McLean com≠plains of the refusal of the authorities of the Independent State of the Kongo to sell land to the society In question. 
-After Investigation I am able to state that there Is no trace In the archives of the Government of a request for land addressed by the authorities of the I!'orelgn Christian MI88lonary Society, and not more than your excellency have I ony Information as to the land desired by this association. I have not faIled to request Information on this point from the local government. 
-I may add, Mr. Minister, that the Interpretation of Mr. McLean of the .. spirit If not the letter of the treaties" calls for some reserves: It, In virtue of these treaties, American citizens enjoy In the Kongo the right of purchoslng land, these treaties do not establish for them nor others the right to compel owners to sell. 
-I avail myself of this opportunity, etc., DE CUVELIER.
+<p>Mr. Secretary-General: I am in receipt of a dispatch from the Department of State at Washington, inclosing a copy of a letter from Mr. McLean, president of the Foreign Christian Missionary Society, of Cincinnati, in which the complaint is made that the officials of the Kongo Free State decline to sell land to the society for the location of schools, chapels, homes, and hospitals. The station of this society is at Bolengi, but no information is furnished as to the location of the land desired.</p>
+
+<p>I will thank you, Mr. Secretary-General, for information as to the present attitude of the Kongo Free State relative to applications of this character. I Inclose herewith a copy of the letter of Mr. McLean.</p>
+ 
+<p>Please accept, etc.,<lb/>
+Henry Lane Wilson.</p> 
+
+</div2>
+
+<div2 type="enclosure">
+
+<head type="main">[Inclosure 2 -- Translation.]</head>
+
+<head type="main">Mr. de Cuvelier to Mr. Wilson, June 16, 1906.</head>
+ 
+<p>Mr. Minister: By your letter of May 19 last, your excellency has kindly brought to my knowledge the contents of a letter addressed by Mr. McClean, president of the Foreign Christian Missionary Society, of Cincinnati, to his excellency the Secretary of State at Washington, in which Mr. McLean complains of the refusal of the authorities of the Independent State of the Kongo to sell land to the society in question.</p> 
+
+<p>After investigation I am able to state that there is no trace in the archives of the Government of a request for land addressed by the authorities of the Foreign Christian Missionary Society, and not more than your excellency have I any information as to the land desired by this association. I have not failed to request Information on this point from the local government.</p> 
+
+<p>I may add, Mr. Minister, that the interpretation of Mr. McLean of the "spirit If not the letter of the treaties" calls for some reserves: It, in virtue of these treaties, American citizens enjoy in the Kongo the right of purchasing land, these treaties do not establish for them nor others the right to compel owners to sell.</p>
+
+<p> I avail myself of this opportunity, etc.,<lb/>
+de Cuvelier.</p>
+
+</div2>
 
 </div1>
 

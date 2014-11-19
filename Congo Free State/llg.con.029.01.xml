@@ -37,7 +37,7 @@
  
 <sourceDesc>
 <bibl>
-<title level="a" type="main">"Unrestrained Tyranny"</title>
+<title level="a" type="main">Unrestrained Tyranny</title>
 <title level="j">Los Angeles Times</title>
 <pubPlace>Los Angeles</pubPlace>
 <biblScope type="page">I2</biblScope>
@@ -95,6 +95,7 @@
 </profileDesc>
    
 <revisionDesc>
+<change when="2014-11-19" who="#kln">edited encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-09-09" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
