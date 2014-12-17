@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="000.about">
+
+  <teiHeader>
+   
+  </teiHeader>
+
+ <text>
+  <body>
+   <div1 type="html">
+
+<h1>About the Author</h1>
+
+<p><b>Jeannette Eileen Jones, Ph.D.</b><br/>
+ Project Director<br/> 
+ University of Nebraska-Lincoln</p>
+
+<p>Jeannette Eileen Jones is a historian of the United States, with particular emphasis in American cultural and intellectual history and African American Studies, with strong interests in race and representation, Atlantic studies, and science studies. Her research reflects her desire to contribute to the larger critical conversations taking place in these fields, specifically around the role of race in shaping American cultural and intellectual discourse and production. More precisely, her research examines the ways in which "race" as a popular and scientific category operated as a potent signifier of difference&#8212;cultural, biological, social, and political&#8212;in late nineteenth and early twentieth century America. However, recognizing the rising global significance of race as an organizing principle, as well as the transnational migration of ideas about race during this period (roughly the Gilded Age to the end of Word War I), her research extends across the Atlantic. It seeks to uncover the discursive relationship between America, other Western, and "subaltern" perspectives on imperialism, citizenship, and social belonging, as mediated primarily through the lens of race, but also through those of gender (ideas about femininity and masculinity), and sexuality.</p>
+
+<p/>
+
+<h2>Project Collaborator</h2>
+
+<p><b>Nadia Nurhussein, Ph.D.</b><br/>
+ University of Massachusetts at Boston</p>
+
+<p>Nadia Nurhussein is Associate Professor of English at the University of Massachusetts at Boston, where she specializes in African-American literature. Her first book, <i>Rhetorics of Literacy: The Cultivation of American Dialect Poetry</i>, was published by The Ohio State University Press in 2013. She is currently at work on a book about the idea of Ethiopia in African American literature.</p>
+
+<p/>
+
+<table>
+ <td>&#160;</td>
+ <td>
+
+<h2>Project Staff</h2>
+
+<p><b>Kaci Nash, M.A.</b><br/>
+ Project Manager<br/> 
+Center for Digital Research in the Humanities<br/>
+ University of Nebraska Libraries, Lincoln, NE</p>
+
+<p><b>Rob Shepard, M.A.</b><br/>
+ Geographer, Ph.D. candidate<br/>
+ University of Nebraska-Lincoln</p>
+
+<p><b>Karin Dalziel, M.LS.</b><br/>
+ Archive Digital Resources Designer<br/>
+ Center for Digital Research in the Humanities<br/>
+ University of Nebraska Libraries, Lincoln, NE</p>
+
+<p><b>Jessica Dussault, M.Sc.</b><br/>
+ Programmer / Analyst<br/>
+ Center for Digital Research in the Humanities<br/>
+ University of Nebraska Libraries, Lincoln, NE</p>
+
+<p><b>Laura Weakly, M.A.</b><br/>
+ Metadata Encoding Specialist<br/>
+ Center for Digital Research in the Humanities<br/>
+ University of Nebraska Libraries, Lincoln, NE</p>
+
+<p><b>Brian L. Pytlik Zillig</b><br/>
+ Digital Initiatives Librarian<br/>
+ Center for Digital Research in the Humanities<br/>
+ University of Nebraska Libraries, Lincoln, NE</p>
+  
+ </td>
+ 
+ <td>&#160;</td>
+ <td>&#160;</td>
+ <td>&#160;</td>
+ <td>&#160;</td>
+ <td>&#160;</td>
+ <td>&#160;</td>
+ <td>&#160;</td>
+ <td>&#160;</td>
+ 
+ <td>
+
+<h2>Advisory Board</h2>
+
+<p><b>Dawne Y. Curry</b><br/>
+ Associate Professor of History and Ethnic Studies<br/>
+ University of Nebraska-Lincoln</p>
+
+<p><b>Alice Kang</b><br/>
+ Assistant Professor of Political Science and Ethnic Studies<br/>
+ University of Nebraska-Lincoln</p>
+
+<p><b>Andrew Zimmerman</b><br/>
+ Professor of History and International Affairs<br/>
+ George Washington University</p>
+
+<p><b>Victoria Alapo</b><br/>
+ Doctoral Student and Lecturer, Department of Geography<br/>
+ University of Nebraska-Lincoln</p>
+
+<p><b>Kalenda Eaton</b><br/>
+ Associate Professor of English<br/>
+ Arcadia University</p>
+  
+ </td>
+</table>
+
+  <p/>
+
+<h2>Research Assistants</h2>
+
+<p>Heather Doxon<br/>
+Erin Dwiggins<br/>
+Joshua Morlan<br/>
+Svetlana Rasmussen<br/>
+Amanda Rosenthal<br/>
+Markus Schoof</p>
+  
+  <p/>
+  
+<p>Funding and support have been provided by the <a href="http://cdrh.unl.edu" target="new">Center for Digital Research in the Humanities</a> at the <a href="http://www.unl.edu" target="new">University of Nebraska–Lincoln</a>.</p>
+
+<p>This project is published under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="new">Attribution-NonCommercial-ShareAlike 3.0 Unported Creative Commons</a> license. Users are free to share and build upon the material so long as use is not for commercial purposes, credit is given to the project, and any material created from the project is published or distributed under the same license.</p> 
+
+
+   </div1>
+  </body>
+ </text>
+</TEI>

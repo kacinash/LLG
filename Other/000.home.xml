@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="000.home">
+    <teiHeader>
+
+    </teiHeader>
+
+    <text>
+        <body>
+            <div1 type="html">
+                  
+                  
+                <div id="logo">
+                    <img src="files/design/logo.jpg" title="Africa crowning King Leopold II" alt="Africa crowning King Leopold II"/>
+                </div> <!-- /logo -->
+                    
+                <p><i>Locating Lord Greystoke: U.S. Empire, Race, and the African Question, 1847-1919</i> examines American responses and representations of the exploration of Africa as part of a larger transnational discourse on the "Africa(n) Question." It visualizes and renders an intellectual and cultural history of American engagment with the African Question using digital humanities technologies and tools. By the African Question, the project does not refer simply to the act of colonizing Africa, but the transnational debate over the future of Africa under European control. Accordingly, the project investigates the modes by which that colonization became legible to citizens and residents of the United States between 1847 (Liberian Independence) and 1919 (Paris Peace Conference).</p>
+                
+                <p>The project focuses on the United States because of its founding of the Liberia colony in 1821. Despite Liberia's independent status in 1847, the United States used its "special relationship" with the country to insert itself in West African affairs. This relationship, in part, garnered the United States an invitation to the Berlin Conference of 1884-85. The United States signed the conference's General Act but the Senate never ratified it. Yet, the United States was the first nation-state to recognize the sovereignty of King Leopold's Congo Free State. Lastly, the United States, while not a formal colonial power in Africa, encouraged missionary activities and supported American commerce in the continent. In addition, African Americans became vocal in opposing imperialism in Africa, espousing Pan-Africanist ideology, Christianizing Africans, and&#8212;to a lesser extent&#8212;supporting emigration to Africa.</p>
+                              
+                <p>Traditional methodologies of intellectual and cultural history are not conducive alone to grappling with the transnational scale of the African Question. Africa is a continent diverse in its peoples and cultures, and a varied group of Europeans colonized it. The colonization of Africa involved an extraordinarily diverse series of events that occurred over vast space and time. Thus, the actual colonization itself generated a corpus of documents in various languages that are impossible for one person to read and interpret. This project focuses on seven themes: Liberia; the Berlin Conference; the Congo Free State; Missionary Activity and African Religions; Race and Culture; Wars and Resistance; and Emigration and Pan-Africanism.</p>
+                
+                <p>The website brings together for comparative purposes the popular literature, government documents, visual culture, and ephemera created by Americans who engaged the African Question, assembling this corpus into a repository. However, the project heeds Andrew Zimmerman's call to produce "transnational histories that include Africa" that take seriously the history of Africans. Thus, the project includes African responses to colonization in several sections.<sup><small><a href="javascript:unhide('fn1');">(1)</a></small></sup></p>
+                
+                <div id="fn1" class="hidden"><p><sup><small><a href="javascript:hide('fn1');">(1)</a></small></sup> Andrew Zimmerman, "Africa in Imperial and Transnational History: Multi-Sited Historiography and the Necessity of Theory," <i>Journal of African History</i> 54, no. 3 (November 2013): 331-340.</p></div>
+                                
+                <p><i>Locating Lord Greystoke</i> uses Edgar Rice Burroughs' fictional character Lord Greystoke to represent the Westerner's place in the geography and discourse of imperialism. In the novel <i>Tarzan of the Apes</i>, the elder Lord Greystoke is sent to Africa to investigate charges of atrocities committed by the Belgians against the Congo peoples during King Leopold II's reign. Greystoke represents the "benevolent" British imperialist who seeks to protect Africans and Africa from malevolent colonizing forces. Upon his death, his son, Tarzan, becomes the new Lord Greystoke. Lord Greystoke became an iconic figure in American conceptions of Africa.</p>
+                               
+            </div1>
+        </body>
+    </text>
+</TEI>

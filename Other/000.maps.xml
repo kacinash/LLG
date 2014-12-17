@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="000.maps">
+
+  <teiHeader>
+   
+  </teiHeader>
+
+ <text>
+  <body>
+   <div1 type="html">
+    
+    <h1>Mapping the African Question</h1>
+    
+    <p>This section visualizes Africa in the cartographic imagination as informed by the six themes&#8212;the Berlin Conference, the Congo Free State, "Race" and Culture, Missionary Activity and African Religions, Wars and Resistance, and Emigration and Pan-Africanism. As such, this section is not simply about how the map of Africa changed according to treaties and Western international agreements signed between 1876 and 1920, but rather how the very understanding of Africa as a place depended on the gaze of the "mapper."<sup><small><a href="javascript:unhide('fn1');">(1)</a></small></sup></p>
+    
+    <div id="fn1" class="hidden"><p><sup><small><a href="javascript:hide('fn1');">(1)</a></small></sup> See Sir Edward Hertslet, R. W. Brant, H. L. Sherwood, <i>The Map of Africa by Treaty</i>, 3rd edition reprinted (London: Cass, 1909, 1967). The contents include v. 1. Nos. 1-94: British Colonies, Protectorates and possessions in Africa; v. 2. Nos. 95-259: Abyssinia to Great Britain and France; v. 3. Nos. 260-382: Great Britain and Germany to United States appendix, and index to the three volumes.</p></div>
+     
+    <p>As Benedict Anderson argues in <i>Imagined Communities</i> (1982), the map was one of the main vehicles for imagining the colonial state. Indeed, the majority of maps of Africa used in this project were produced in the aftermath of the "scramble for Africa" between 1884 and 1914. Accordingly, for the powers attending the Berlin Conference, Africa was comprised of colonies, protectorates, possessions, and sovereign states reflecting their commercial and economic interests in the continent. However, for the anthropologist and ethnographer, Africa was a collection of races and cultures; for the explorer, a "wild" continent of "undiscovered county;" for the missionary, a land of "heathens" and "Mohammedans;" for the Pan-Africanist and indigenous African, a post-colonial Africa; and for Africans, a place to resist colonial oppression. In this sense, "Mapping the African Question" is a "spatial history."<sup><small><a href="javascript:unhide('fn2');">(2)</a></small></sup></p>
+    
+    <div id="fn2" class="hidden"><p><sup><small><a href="javascript:hide('fn2');">(2)</a></small></sup> See "Census, Map, and Museum" in Benedict Anderson, <i>Imagined Communities: Reflections on the Origin and Spread of Nationalism</i> (London: Verso, 1983), 167-190; and Richard White, <a href="http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29" target="_blank" class="ext">"What is Spatial History?"</a>, <i>Publications</i> (<a href="http://www.stanford.edu/group/spatialhistory/" target="_blank" class="ext">The Spatial History Project</a>: February 1, 2010).</p></div>
+    
+    <p>The maps below present Africa according to six themes, allowing the user to select points and corresponding documents that proved important to those thematic imaginings of the continent and discourses on the African Question.</p>
+    
+    <p/>
+     
+    <div id="icon_right">
+     <a href="http://greystoke.unl.edu/maps/berlin.html" target="new"><img src="./files/themes/berlin_map.jpg" border="0"/></a>
+    </div>
+    
+    <h2><a href="http://greystoke.unl.edu/maps/berlin.html" target="new">Berlin Conference</a></h2>
+       
+    <p>The project uses four historical maps to visualize Africa as imagined at the <a href="berlin.html">Berlin Conference</a>.
+     <small><ul>
+      <li>Samuel Augustus Mitchell's 1853 map titled <a href="http://www.davidrumsey.com/luna/servlet/s/6nq1p6" target="new" class="ext">"Map of Africa from the Latest Authorities"</a> illustrates Africa according to the possessions held by European powers (e.g., Great Britain, France, Spain, Portugal, and the Netherlands) and includes an inset of the Republic of Liberia, noting the latter's history as a former U.S. colony established by the American Colonization Society in 1821. Mitchell was a geographer most noted for publishing the textbook Mitchell's School Geography (in several editions), which American schools used as a primer in secondary education geography courses.</li>
+      <li>On February 22, 1891, <i>The Morning Call</i>, a California newspaper published the map <a href="http://www.davidrumsey.com/luna/servlet/s/3yfx3k" target="new" class="ext">"The Partition of Africa as Settled by International Agreements"</a> in the article "A Very Much Divided Country."<sup><small><a href="javascript:unhide('fn3');">(3)</a></small></sup> The map visualizes the possessions, spheres of influences, colonies, and protectorates of Great Britain, Italy, France, Portugal and Germany. It also maps the Congo Free State and the "Congo Free Trade Area."</li> 
+      <li>German geographer, Richard Andree's 1895 map <a href="http://www.davidrumsey.com/luna/servlet/s/0cwqf8" target="new" class="ext">"Africa"</a> also maps the European possessions, but includes those of Spain.</li> 
+      <li>Andree and his colleague Albert Scobel's 1895 map <a href="http://www.davidrumsey.com/luna/servlet/s/cr5iqb" target="new" class="ext">"Afrika: Politische Ubersicht"</a> includes Belgian (Congo Free State) and Turkish possessions, the latter referring to the Ottoman Empire. This map includes an inset of German Southwest Africa (present-day Namibia).</li>
+     </ul></small>
+    </p>
+    
+    <div id="fn3" class="hidden"><p><sup><small><a href="javascript:hide('fn3');">(3)</a></small></sup> Although David Rumsey attributes the authorship of the map to Adolf Stieler, it is impossible that he created the map since he died in 1836. Most likely, the author of the map used Stieler's map as a "base map" on which he or she mapped the European possessions.</p></div>
+     
+     <p>Viewed collectively, these maps show the progression of the production of European and U.S. geographic knowledge about Africa according to space and time. Specifically, the maps visualize how Western geographic knowledge of Africa was refracted through the lenses of settler colonialism and imperialism. Very little attention is paid to indigenous political structures, as areas not under European "possession" are either labeled according to ethnic groups that populate the region or by terms used by explorers and slave traders. For example, Mitchell's map labels West Africa mostly as Upper and Lowe Guinea. In the absence of a key, one is left to decipher the relevance of the many place names that appear on the map that are not clearly town or cities. Interestingly, the two maps created by German geographers depict African kingdoms, city-states, empires, sultanates, and caliphates (although they are not labeled as such).</p> 
+     
+     <p>The maps viewed in chronological order of publication, as well as layered on top of each other, thus present to the user an African continent increasingly depicted as a sum of European possessions. While this should be expected, it is the detail of African diversity that stands out. Even as Africa was imagined and partitioned according to European interests in the wake of the Berlin Conference, geographers attempted to present what they viewed as "the real" Africa to the public.</p>
+   
+         
+   </div1>
+  </body>
+ </text>
+</TEI>

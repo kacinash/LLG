@@ -1,0 +1,440 @@
+
+.hidden { 
+	display: none;
+	}
+
+.unhidden { 
+	background: #efede4;
+	font-size: 14px;
+	color: #000;
+	}	
+
+
+
+/********** Body and Font Definitions **********/
+
+body {
+    background-color: #e9e7db;
+    font-size: 14px;
+    font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
+    color: #363636;
+    padding: 0px;
+    margin: 0px;
+}
+
+p {
+    margin: 0px;
+    padding: .5em 0 10px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family:'IM Fell English', serif; 
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+
+h1 { 
+    font-family: 'IM Fell English', serif; 
+    font-weight: 800; 
+    font-size: 2em;
+    margin-top: 10px;
+    margin-bottom: 0px;    
+}
+
+h2 { 
+    font-family: 'IM Fell English', serif; 
+    font-size: 1.75em;
+}
+
+h3 { 
+    font-family: 'IM Fell English', serif; 
+    font-size: 1.5em;
+    font-style: italic;
+    margin-left: .75em;
+}
+
+h4 { 
+    font-family: 'IM Fell English', serif; 
+    font-size: 1.5em;
+}
+
+h5 { 
+    font-family: 'IM Fell English', serif; 
+    font-size: 1em;
+}
+
+table {
+    width: 100%;
+    /*background-color: #f8f7f4;*/
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+ul	{
+	margin: 0px;
+}
+
+#main ul {
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+#main li {
+    padding: .2em 0;
+    list-style-position: outside;
+    list-style-image: none;
+}
+
+hr {
+    border: 0;
+    height: 10px;
+}
+
+/********** Links **********/
+
+a {
+    color: #8e534e;
+    background-color:transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #8e534e;
+    background-color:transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: transparent;
+    text-decoration: none;
+    color: #d8ae58;
+}
+
+p a:link {
+    border-bottom: 1px dotted #8e534e;
+}
+
+.subjectLink a:link {
+    text-decoration: none;
+    border-bottom: 0px dotted #8e534e;
+}
+
+form {
+    /*font-size: .7em;*/
+    margin-bottom: -35px;
+}
+
+a.ext {
+    background: url(http://spacely.unl.edu/cocoon/greystoke/files/design/link.png) top right no-repeat;
+    padding-right: 13px;
+}
+
+img.ext {
+    padding-left: 2px;    
+}
+
+/********** Layout **********/
+
+.pagewrap {
+    width: 964px; /* width of layout */
+    margin: 0 auto; /* center to page */
+    padding: 0;
+    overflow: auto;
+    -moz-box-shadow: 0px 0px 20px #888;
+	-webkit-box-shadow: 0px 0px 20px #888;
+	box-shadow: 0px 0px 20px #888;
+	background-color: #fff;
+}
+
+.header {
+    margin: 0px auto;
+    padding: 0px;
+    background: url(http://spacely.unl.edu/cocoon/greystoke/files/design/header.jpg) top left no-repeat;
+    width: 964px;
+    height: 200px;
+    border-bottom: 2px solid #4f312e;
+}
+
+.main {
+    padding: 1px 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    background-color: #ffffff;
+}
+
+
+.footer {
+    margin: 0px auto;
+    width: 964px;
+    height: 85px;
+    border-top: 2px solid #4f312e;
+    background-color: #4f312e;
+    clear: both;
+    text-align: center;
+}
+
+.footerinfo {
+    font-size: .7em;
+    font-weight: normal;
+    color: #ece8e1;
+    margin-left: 30px;
+    margin-top: 20px;
+    float: left;
+	clear: left;
+	width: 550px;
+}
+
+.footerinfo a {
+    color: #ece8e1;
+}
+
+.footerinfo a:hover {
+    border-bottom: 1px dotted #d8ae58;
+}
+
+
+.right {  /* Icon in Footer */
+	margin: 10px;
+	margin-right: 30px;
+	float: right;
+	clear: right;
+}
+
+#logo { /* Image from Stanley Book on main page */
+    float: left;
+    clear: both;
+    width: 385px;
+    text-align: center;
+    padding: 15px;
+}
+
+#icon_left { /* Images for Themes page */
+    float: left;
+    clear: both;
+    width: 300px;
+    text-align: center;
+    padding-right: 10px;
+}
+
+#icon_right { /* Images for Themes page */
+    float: right;
+    clear: both;
+    width: 300px;
+    text-align: center;
+    padding-left: 10px;
+}
+
+
+/********** Navigation **********/
+
+.nav {
+	width: 100%;
+}
+
+.nav ul{
+	margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.nav ul li {
+	list-style: none;
+    float: right;
+    margin-top: 161px;	
+}
+
+.nav ul li a {
+	padding: 10px 20px 10px 20px;
+    background: transparent;
+    color: #d8ae58;
+    text-decoration: none;
+    font-size: 1.3em;
+    font-family: 'IM Fell English', serif;
+    float: right;
+    display: inline-block; 
+}
+
+.nav ul li a:hover {
+    background: transparent;
+    text-decoration: none;
+    color: #A6635D;
+}
+
+/********** Document Display **********/
+
+blockquote {
+   font-family: 'Esteban', serif; 
+   font-size: 16.5px;
+   margin-bottom: -10px;
+   margin-top: 0px;
+   font-style: italic;
+}
+
+.quote {
+   font-size: 85%;
+   margin-right: 15px;
+   margin-left: 15px;
+}
+
+/*.bibliography {
+	line-height: 1.2em;
+	background-color: #f7fafb;
+}
+
+.bibliography p {
+	clear: both;
+	padding: 0;
+	margin: 5px;
+}*/
+
+.callout-analysis {
+	border: 1px solid #d9d8db;
+	margin: .5em 0 .5em 0;
+    background-color: #f8f7f4;
+	padding: 5px 15px;
+	clear: both;
+}
+
+.callout {
+	border: 1px solid #d9d8db;
+	background-color: #e9e7db;
+	margin: .5em 0 .5em 0;
+	padding: 5px 15px;
+	clear: both;
+}
+
+.callout .selected {
+	border: 1px solid #d9d8db;
+	background-color: #ffffff;
+	text-decoration:none;
+	}
+
+.morelink {
+	font-size: .8em;
+	margin-left: 5px;
+}
+
+.morelink a {
+	border: 1px solid #f7fafb;
+	background-color: #ffffff;
+	text-decoration:none;
+	padding:3px;
+}
+
+.morelink a:hover {
+	border: 1px solid #d9d8db;
+	}
+	
+.smallcaps {
+    font-variant: small-caps;
+    font-size: 115%;
+}
+
+sup, sub {
+    font-size:90%;
+}
+
+sup {
+    top: -0.3em;
+}
+
+small {
+    font-size: 80%;
+}
+
+
+
+
+/********** Mapping Points **********/
+
+.map {
+	width: 100%;
+}
+
+.map ul{
+	margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.map ul li {
+	list-style: none;
+    float:left;	
+}
+
+.map ul li a {
+	padding: 0px 10px;
+    background: transparent;
+    color: #A6635D;
+    text-decoration: none;
+    font-size: 1.2em;
+    font-family: 'IM Fell English', serif; 
+}
+
+.map ul li a:hover {
+    background: transparent;
+    text-decoration: none;
+    color: #d8ae58;
+}
+
+
+
+
+
+
+
+
+/* Personography */
+
+
+ul.life_item {
+	margin:0;
+	overflow: auto;
+	display: block;
+	list-style: none;
+	padding: 0;
+	
+}
+
+ul.life_item li a {
+	display:block;
+	float: left;
+	background-color: #f7fafb;
+	border: 1px solid #d6dedf;
+	padding: 5px;
+	margin: 5px 10px 5px 0;
+	text-decoration: none;
+	
+}
+
+div.life_item {
+	margin: 20px;
+	padding: 15px;
+	border: 1px solid #d6dedf;
+	overflow: auto;
+	clear: both;
+	
+}
+
+.life_item h3 {
+	clear:both;	
+
+}
+
+.personDetails {
+	margin: 0;
+	padding: 0;
+}
+
+.personImage {
+	float: right;
+	/*width: 250px;
+	height: 250px;*/
+	background-color: #aaa;
+	margin: 0 0 10px 10px;
+}
+
+.personImage img {
+	border: solid 1px #aaa;
+}

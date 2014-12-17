@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="000.berlin">
+
+  <teiHeader>
+   
+  </teiHeader>
+
+ <text>
+  <body>
+   <div1 type="html">
+    
+    <h1>Berlin Conference</h1>
+    
+    <h2>Map</h2>
+    
+    <p>The project layers <b><a href="http://greystoke.unl.edu/maps/berlin.html" target="new">four historical maps</a></b> chronologically in order to visualize Africa as imagined at the Berlin Conference.</p>
+    
+    <p><small>For more information on the maps created for this project, see <b><a href="maps.html">Mapping the African Question</a></b>.</small></p>
+    
+    <h2>Documents</h2>
+    
+    
+             
+   </div1>
+  </body>
+ </text>
+</TEI>

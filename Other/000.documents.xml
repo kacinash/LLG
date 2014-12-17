@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="000.documents">
+
+  <teiHeader>
+   
+  </teiHeader>
+
+ <text>
+  <body>
+   <div1 type="html">
+
+<h1>Document Index</h1>
+
+<p>Explore the documents used in the project's argument. Each document contains a summary and analysis of the text as well as information about locations across the African continent relevant to each document.</p>
+
+<h2>Browse by Document Type</h2>
+
+&#160;&#160;&#160;&#160;&#160; <select id="document">
+<option value="./home.html">Select Document</option>
+<option value="./search/?q=subtype:Act&amp;sort=date">Act</option>
+<option value="./search/?q=subtype:Book&amp;sort=date">Book</option>
+<option value="./search/?q=subtype:Report&amp;sort=date">Government Report</option>
+<option value="./search/?q=subtype:Journal&amp;sort=date">Journal Article</option>
+<option value="./search/?q=subtype:Magazine&amp;sort=date">Magazine Article</option>
+<option value="./search/?q=subtype:Newspaper&amp;sort=date">Newspaper Article</option>
+<option value="./search/?q=subtype:Pamphlet&amp;sort=date">Pamphlet</option>
+</select>
+<script type="text/javascript">
+ var urlmenu = document.getElementById( 'document' );
+ urlmenu.onchange = function() {
+      window.open( this.options[ this.selectedIndex ].value,'_self',false );
+ };
+</script>
+
+<p/>
+        
+             
+   </div1>
+  </body>
+ </text>
+</TEI>

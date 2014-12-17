@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="encyclopedia">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Encyclopedia</title>
+                <principal n="Jones, Jeannette" xml:id="jj">Jeannette Jones</principal>
+                <respStmt>
+                    <resp>creation and encoding</resp>
+                    <name n="Nash, Kaci" xml:id="kn">Kaci Nash</name>
+                </respStmt>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Maryland</sponsor>
+            </titleStmt>
+            
+            <publicationStmt>
+                <authority>O Say Can You See</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+            <addrLine>319 Love Library</addrLine>
+            <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+            <addrLine>Lincoln, NE 68588-4100</addrLine>
+            <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+        </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+            <addrLine>University of Nebraska-Lincoln</addrLine>
+            <addrLine>Lincoln, NE 68588-4100</addrLine>
+        </address>
+                <idno type="project">encyclopedia</idno>
+                <availability>
+                    <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/). Derivatives must be credited to Civil War Washington, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <note>Original Document</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Encyclopedia</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        
+    </teiHeader>
+    
+    <text>
+        
+        <body>
+            
+            <div1 type="list">
+                
+                <div2 xml:id="africa.question">
+                    <head>Africa(n) Question</head>
+                    <p>By the African Question, the project refers to the act of colonizing Africa, but more significantly, the transnational debate over the future of Africa under European control.</p>
+                </div2>
+                
+                
+                <listPerson>
+                    
+                    <person xml:id="bright.jacob">
+                        <persName>
+                            <forename type="first">Jacob</forename>
+                            <surname>Bright</surname>
+                        </persName>
+                        <birth when="1821-05-26">1821</birth>
+                        <death when="1899-11-07">1899</death>
+                        <note>Jacob Bright was a member of the British Parliament, representing the Borough of Manchester from 1867-1874 and from 1876-1885. From 1886-1895, he represented the Southwest Division of Manchester. Bright was a Liberal who challenged Prime Minister William Ewart Gladstone's support of a treaty that would recognize Portugal's control over both sides of the Congo River. Bright successfully prevented ratification of the Congo Treaty in the House of Commons.</note>
+                    </person>
+                    
+                    <person xml:id="bismarck.otto">
+                        <persName>
+                            <forename>Otto</forename>
+                            <surname>von Bismarck</surname>
+                        </persName>
+                        <birth when="1815-04-01">1815</birth>
+                        <death when="1898-07-30">1898</death>
+                        <occupation>Chancellor of Germany</occupation>
+                        <note></note>
+                    </person>
+                    
+                    <person xml:id="deleon.daniel">
+                        <persName>
+                            <forename>Daniel</forename>
+                            <surname>DeLeon</surname>
+                        </persName>
+                        <birth when="1852-12-14">1852</birth>
+                        <death when="1914-05-11">1914</death>
+                        <note>Cura&#199;çao-born, Jewish intellectual Daniel DeLeon joined the Socialist Party in 1890 while in the United States. He began working with the American Federation of Labor, but in 1895, left the group to form the Socialist Trade and Labor Alliance.</note>
+                    </person>
+                    
+                    <person xml:id="kasson.john">
+                        <persName>
+                            <forename type="first">John</forename>
+                            <forename type="middle">A.</forename>
+                            <surname>Kasson</surname>
+                        </persName>
+                        <birth when="1822-01-11">1822</birth>
+                        <death when="1910-05-18">1910</death>
+                        <note>Cura&#199;çao-born, Jewish intellectual Daniel DeLeon joined the Socialist Party in 1890 while in the United States. He began working with the American Federation of Labor, but in 1895, left the group to form the Socialist Trade and Labor Alliance.</note>
+                    </person>
+                    
+                    <person xml:id="leopold.ii">
+                        <persName>
+                            <forename>Leopold</forename>
+                            <genName>II</genName>
+                        </persName>
+                        <birth when="1835-04-09">1835</birth>
+                        <death when="1909-12-17">1909</death>
+                        <occupation>King of the Belgians</occupation>
+                        <note></note>
+                    </person>
+                    
+                    <person xml:id="stanley.henry">
+                        <persName>
+                            <forename type="first">Henry</forename>
+                            <forename type="middle">Morton</forename>
+                            <surname>Stanley</surname>
+                        </persName>
+                        <birth when="1841-01-28">1841</birth>
+                        <death when="1904-05-10">1904</death>
+                        <occupation>Explorer, Journalist</occupation>
+                        <note></note>
+                    </person>
+                    
+                    <person xml:id="wilhelm.ii">
+                        <persName>
+                            <forename>Wilhelm</forename>
+                            <genName>II</genName>
+                        </persName>
+                        <birth when="1859-01-27">1859</birth>
+                        <death when="1941-06-04">1941</death>
+                        <occupation>Emperor of Germany, King of Prussia</occupation>
+                        <note></note>
+                    </person>
+                                       
+                    <!--
+        <person xml:id="">
+            <persName>
+                <forename></forename>
+                <surname></surname>
+            </persName>
+            <birth when=""></birth>
+            <death when=""></death>
+            <occupation></occupation>
+            <note></note>
+        </person>
+        -->
+                    
+                </listPerson>
+                
+               
+                <listOrg>
+                   
+                    <org xml:id="soc.amc">
+                        <orgName>American Colonization Society</orgName>            
+                        <desc></desc>
+                    </org>
+                   
+                    <org xml:id="ass.int">
+                        <orgName>International African Association</orgName>            
+                        <desc></desc>
+                    </org>
+                   	
+                    <org xml:id="com.for">
+                        <orgName>Committee on Foreign Relations</orgName>            
+                        <desc></desc>
+                    </org>
+                   	
+                    <org xml:id="pol.con">
+                        <orgName>Congress</orgName>            
+                        <desc></desc>
+                    </org>	
+                   
+                    <org xml:id="pol.sos">
+                        <orgName>Secretary of State</orgName>            
+                        <desc></desc>
+                    </org>
+                    
+                    <org xml:id="rel.bms">
+                        <orgName>Baptist Missionary Society</orgName>            
+                        <desc></desc>
+                    </org>
+                   
+                    <org xml:id="com.int">
+                        <orgName>International Commission on the Congo</orgName>
+                        <desc></desc>           
+                    </org>
+                    
+                    <org xml:id="con.ber">
+                        <orgName>Berlin Conference</orgName>            
+                        <desc>The Berlin Conference was a gathering of European powers to reach an agreement regarding the free navigation of the Congo and Niger rivers and to establish procedures for future European claims to territory in Africa. Held during the winter of 1884-85, dignitaries representing the United States, Belgium, Spain, Denmark, France, Italy, the United Kingdom, Austria-Hungary, the Netherlands, Russia, Portugal, the Ottoman Empire, and the United Kingdoms of Norway and Sweden gathered in Berlin.</desc>
+                    </org>
+                    
+                    <!--
+        <org xml:id="">
+            <orgName></orgName>            
+            <desc></desc>
+        </org>
+        -->
+                    
+                </listOrg>
+                
+                
+                <listPlace>
+                    
+                    <place xml:id="ang.amb">
+                        <placeName>
+                            <settlement>Ambriz</settlement>,
+                            <country>Angola</country>
+                        </placeName>
+                        <note>This port town under African rule benefited from trade routed through the Portuguese Kingdom of Angola as well as the Congo Free State.</note>
+                    </place> 
+                    
+                    <place xml:id="ang.cab">
+                        <placeName>
+                            <settlement>Cabinda</settlement>,
+                            <country>Angola</country>
+                         </placeName>            
+                        <note>Located at the mouth of the Congo River, this port city was claimed by Portugal as part of the Portuguese Congo. It is located in present-day Angola.</note>
+                    </place>
+                    
+                    <place xml:id="cap.pad">
+                        <placeName>
+                            <geogName>Cape Padron</geogName>
+                        </placeName>            
+                        <note>Located on the left bank at the mouth of the Congo River, Cape Padron was used by the Portuguese in their attempts to control navigation of the river.</note>
+                    </place>
+                    
+                    <place xml:id="riv.con">
+                        <placeName>
+                            <geogName>Congo River</geogName> 
+                        </placeName>            
+                        <note>Free navigation of the Congo River was one of the primary dictates of the Berlin Conference.</note>
+                    </place>
+                    
+                    <place xml:id="bas.con">
+                        <placeName>
+                            <geogName>Congo River Basin</geogName> 
+                        </placeName>            
+                        <note>Containing the Congo River and all of its tributaries, this region was proclaimed by the Berlin Conference to be one of free trade and navigation by all nations with an interest in Africa.</note>
+                    </place>
+                    	
+                    <place xml:id="gui.fer">
+                        <placeName>
+                            <settlement>Fernando Po</settlement>,
+                            <country>Equatorial Guinea</country>
+                        </placeName>            
+                        <note>Part of Spanish Guinea, the island of Fernando Po was an important port of entry into Africa for maritime traders.</note>
+                    </place>
+                    
+                    <place xml:id="ocn.ind">
+                        <placeName>
+                            <geogName>Indian Ocean</geogName> 
+                        </placeName>            
+                        <note>The Berlin Conference General Act named the Indian Ocean as the eastern most boundary of the "Conventional Congo Basin" where the Zambezi River (a tributary of the Congo) entered into the ocean.</note>
+                    </place>
+                    
+                    <place xml:id="con.kin">
+                        <placeName>
+                            <settlement>Kinsembo</settlement>,
+                            <country>Democratic Republic of the Congo</country>
+                        </placeName>            
+                        <note>Kinsembo was a base from which the British protected their trade rights in the region.</note>
+                    </place>
+                    	
+                    <place xml:id="lak.tan">
+                        <placeName>
+                            <geogName>Lake Tanganyika</geogName> 
+                        </placeName>            
+                        <note>The Berlin Conference General Act declared Lake Tanganyika part of the region drained by the Congo Basin, thereby opening it up to European free trade.</note>
+                    </place>
+                    
+                    <place xml:id="lib">
+                        <placeName>
+                            <country>Liberia</country>
+                        </placeName>            
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="riv.log">
+                        <placeName>
+                            <geogName>Loge River</geogName> 
+                        </placeName>            
+                        <note>The Berlin Conference General Act included the Loge River because it connected the "Atlantic zone" to the Congo Basin.</note>
+                    </place>
+                    	
+                    <place xml:id="ang.lua">
+                        <placeName>
+                            <settlement>Luanda</settlement>,
+                            <country>Angola</country>
+                        </placeName>            
+                        <note>Luanda was a center of the Portuguese transatlantic slave trade before slave trafficking was abolished in 1836. It remained an important trading port for the Portuguese empire in colonial Africa.</note>
+                    </place>
+                    
+                    <place xml:id="riv.nig">
+                        <placeName>
+                            <geogName>Niger River</geogName> 
+                        </placeName>            
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="riv.nil">
+                        <placeName>
+                            <geogName>Nile River</geogName> 
+                        </placeName>            
+                        <note>The Berlin Conference, while focused on the Congo, addressed the Niger River in its dicussion of free trade because it was a "commercial river" that gave Europeans access to trade in West Africa. </note>
+                    </place>
+                    		
+                    <place xml:id="ang.nok">
+                        <placeName>
+                            <settlement>Noki</settlement>,
+                            <country>Angola</country>
+                        </placeName>            
+                        <note>A principle port on the Portuguese side of the Congo River.</note>
+                    </place>  	
+                    	
+                    <place xml:id="lak.mal">
+                        <placeName>
+                            <geogName>Pool Malebo (Stanley Pool)</geogName> 
+                        </placeName>            
+                        <note>The lake-sized expanse of the Congo River provided access to numerous tributaries and was of strategic importance for trade in and navigation of the region.</note>
+                    </place>
+                    
+                    <place xml:id="sti">
+                        <placeName>
+                            <geogName>St. Thomas (S&#227;o Tom&#233;) Island</geogName> 
+                        </placeName>            
+                        <note>St. Thomas Island was a center of the Portuguese transatlantic slave trade until 1836. It remained an important trading port and agricultural center for "legitimate trade" in the Portuguese African empire.</note>
+                    </place>
+                    
+                    <place xml:id="con.vivi">
+                        <placeName>
+                            <settlement>Vivi</settlement>,
+                            <country>Congo</country>
+                        </placeName>            
+                        <note>Founded as a trading post and station along the Congo River, Vivi was eventually made the capital of the Congo Free State.</note>
+                    </place> 
+                    	
+                    <place xml:id="riv.zam">
+                        <placeName>
+                            <geogName>Zambezi River</geogName> 
+                        </placeName>            
+                        <note></note>
+                    </place> 	
+                    
+                    <place xml:id="tan.zan">
+                        <placeName>
+                            <settlement>Zanzibar</settlement>,
+                            <country>Tanzania</country>
+                        </placeName>            
+                        <note>After the Sultanate of Oman seized the island of Zanzibar from Portugal in the 17th century, the Sultanate controlled trade in eastern Africa from Zanzibar in the Indian Ocean inland to Lake Tanganyika.</note>
+                    </place> 
+                    
+                    <place xml:id="ben.why">
+                        <placeName>
+                            <settlement>Whydah</settlement>,
+                            <country>Benin</country>
+                        </placeName>            
+                        <note></note>
+                    </place> 
+                    
+                    <place xml:id="fal.yel">
+                        <placeName>
+                            <geogName>Yellala Falls</geogName> 
+                        </placeName>            
+                        <note></note>
+                    </place>
+                   
+                    <place xml:id="con.isa">
+                        <placeName>
+                            <settlement>Isangila</settlement>,
+                            <country>Democratic Republic of the Congo</country>
+                        </placeName>            
+                        <note></note>
+                    </place>
+                               
+                    <!--
+        <place xml:id="">
+            <placeName>
+                settlement
+                country
+                geogName
+            </placeName>            
+            <note></note>
+        </place>
+        -->
+                    
+                </listPlace>
+                
+                
+            </div1>
+        </body>
+        
+    </text>
+    
+</TEI>
