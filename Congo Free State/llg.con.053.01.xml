@@ -44,6 +44,7 @@
 <pubPlace>Washington, D.C.</pubPlace>
 <publisher>U.S. Government Printing Office</publisher>
 <biblScope type="pages">88-105</biblScope>
+<note>Selected documents from report.</note>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -303,9 +304,7 @@ Henry Lane Wilson.</p>
 </text>
 
 
-<gap reason="sampling" extent="one letter">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="one letter"/>
 
 
 <text type="report" xml:id="llg.con.053.001.d003">
@@ -334,9 +333,8 @@ Henry Lane Wilson.</p>
 </text>
 
 
-<gap reason="sampling" extent="about five pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about five pages"/>
+
 
 
 <text type="report" xml:id="llg.con.053.001.d004">
@@ -407,9 +405,7 @@ A. McLean.</p>
 </text>
 
 
-<gap reason="sampling" extent="one letter">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="one letter"/>
 
 
 
@@ -445,9 +441,7 @@ Kongo State. The Berlin act made certain stipulations with respect to the conven
 <p>I have the honor, etc.,<lb/> 
 Henry Lane Wilson.</p>
 
-<gap reason="sampling" extent="about four pages">
-<desc>not including enclosure</desc>
-</gap>
+<gap reason="sampling" extent="about four pages"/>
 
 </div1>
 
