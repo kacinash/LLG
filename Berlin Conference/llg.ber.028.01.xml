@@ -67,8 +67,8 @@
 <term/>
 </keywords>
 
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo River</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -90,6 +90,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2015-06-08" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-15" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -103,7 +104,7 @@
 
 <div2 type="article">
 
-<p>While the Congo conference is discussing in long and weary debates the proposition to grant the southern bank of the Congo to the International African association, Portugal suddenly knocks the association into "pi" by appropriating both banks of the river.</p>
+<p>While the Congo conference is discussing in long and weary debates the proposition to grant the southern bank of the <placeName key="riv.con" n="mapped"><geogName type="river">Congo</geogName></placeName> to the International African association, Portugal suddenly knocks the association into "pi" by appropriating both banks of the river.</p>
 
 </div2>
 

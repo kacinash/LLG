@@ -67,8 +67,8 @@
 <term/>
 </keywords>
 
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Basin</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -90,6 +90,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2015-06-08" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-10" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -103,7 +104,7 @@
 
 <div2 type="article">
 
-<p>At the West African Conference the principle of free trade was guaranteed in the western part of the Congo basin.</p>
+<p>At the West African Conference the principle of free trade was guaranteed in the western part of the <placeName key="bas.con" n="mapped"><geogName type="basin">Congo basin</geogName></placeName>.</p>
 
 </div2>
 

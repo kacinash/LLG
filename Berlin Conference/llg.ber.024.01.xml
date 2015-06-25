@@ -67,8 +67,9 @@
 <term/>
 </keywords>
 
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo River</term>
+<term>Niger River</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -90,6 +91,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2015-06-08" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-10" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -103,7 +105,7 @@
 
 <div2 type="article">
 
-<p>The neutrality of the Congo and Niger is still in doubt.</p>
+<p>The neutrality of the <placeName key="riv.con" n="mapped"><geogName type="river">Congo</geogName></placeName> and <placeName key="riv.nig" n="mapped"><geogName type="river">Niger</geogName></placeName> is still in doubt.</p>
 
 </div2>
 

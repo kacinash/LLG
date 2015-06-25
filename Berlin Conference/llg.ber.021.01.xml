@@ -64,11 +64,11 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Stanley, Henry Morton, 1841-1904</term>
 </keywords>
 
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Basin</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -103,7 +103,7 @@
 
 <div2 type="article">
 
-<p>The basin of the Congo, as agreed upon by the Conference, comprises 1,300,000 square miles of territory. Mr. Stanley is endeavoring to have it extended to 3,000,000 square miles.</p>
+<p>The <placeName key="bas.con" n="mapped"><geogName type="basin">basin of the Congo</geogName></placeName>, as agreed upon by the Conference, comprises 1,300,000 square miles of territory. Mr. Stanley is endeavoring to have it extended to 3,000,000 square miles.</p>
 
 </div2>
 

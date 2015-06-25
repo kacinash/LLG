@@ -67,8 +67,10 @@
 <term/>
 </keywords>
 
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
+<term>Karema (Congo)</term>
+<term>Lake Tanganyika</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -90,6 +92,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2015-06-08" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-21" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -109,7 +112,7 @@
 
 <div2 type="article">
 
-<p>London, Aug. 20. -- Another odd breakup in the Congo business is announced by special to the Morning Post. It seems that Lieut. Sturm, an officer in the Belgium infantry, who commanded station Karema, in Congo, has refused to recognize the decisions of the Berlin conference, stipulating that the western banks of lake Tanganyika should conststute the frontier of the Congo state. He has resigned his post as agent of the African association and his commission in the Belgian army, and has proclaimed himself emperor of Tanganyika, assuming the title of Emile I.</p>
+<p>London, Aug. 20. -- Another odd breakup in the Congo business is announced by special to the Morning Post. It seems that Lieut. Sturm, an officer in the Belgium infantry, who commanded station <placeName key="tan.kar" n="mapped"><settlement type="village">Karema</settlement></placeName>, in <placeName type="con" n="mapped"><country type="colony">Congo</country></placeName>, has refused to recognize the decisions of the Berlin conference, stipulating that the western banks of <placeName key="lak.tan" n="mapped"><geogName type="lake">lake Tanganyika</geogName></placeName> should constitute the frontier of the Congo state. He has resigned his post as agent of the African association and his commission in the Belgian army, and has proclaimed himself emperor of Tanganyika, assuming the title of Emile I.</p>
 
 </div2>
 

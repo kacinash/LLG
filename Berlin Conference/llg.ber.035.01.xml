@@ -67,8 +67,9 @@
 <term/>
 </keywords>
 
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Basin</term>
+<term>Congo River</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -90,6 +91,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2015-06-08" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-21" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -109,9 +111,9 @@
 
 <div2 type="article">
 
-<p>The discovery and explorations of Stanley and De Brazza have interested all nations in the Congo River. This broad, deep, and powerful body of water flows into the Atlantic Ocean on the west coast of Africa about six degrees south of the equator. it is destined to become the gate way to the heart of equatorial Africa. Hence the interest of Europe and the United States.</p>
+<p>The discovery and explorations of Stanley and De Brazza have interested all nations in the <placeName key="riv.con" n="mapped"><geogName type="river">Congo River</geogName></placeName>. This broad, deep, and powerful body of water flows into the Atlantic Ocean on the west coast of Africa about six degrees south of the equator. It is destined to become the gate way to the heart of equatorial Africa. Hence the interest of Europe and the United States.</p>
 
-<p>Portugal claims this great river and the surrounding territory. The Pope gave it to her several centuries ago. Who gave or sold it to his Holiness? Portugal has done nothing for the people or the country. She has no right to be there as owner. She ought not to be permitted to doom millions of people, now on the way to a new civilization, to poverty, ignorance and degradation.</p>
+<p>Portugal claims this great river and the <placeName key="bas.con" n="mapped">surrounding territory</placeName>. The Pope gave it to her several centuries ago. Who gave or sold it to his Holiness? Portugal has done nothing for the people or the country. She has no right to be there as owner. She ought not to be permitted to doom millions of people, now on the way to a new civilization, to poverty, ignorance and degradation.</p>
 
 <p>England, in her foreign policy, is a sly, grasping, avaricious bully. Her policy is dictated by her selfish, money-getting merchants ands manufacturers. These have put their covetous eyes on the Congo river and territory. They send there every year out of Liverpool alone goods to the value of five million dollars. It would arouse the other great powers of the world if England were to establish an open protectorate over the Congo. She has with the slyness of a fox entered into a treaty with Portugal, recognizing the claim of this stagnant nation to the ownership of the great West African river. That is simply an outrageous blind, an infamous subterfuge. It simply means that England will play the monkey and Portugal the cat'spaw. One will be, to all appearances, the throne, but the other the power behind he throne.</p> 
 

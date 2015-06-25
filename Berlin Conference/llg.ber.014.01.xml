@@ -67,8 +67,8 @@
 <term/>
 </keywords>
 
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Niger River</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -90,6 +90,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2015-06-08" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-10" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -109,7 +110,7 @@
 
 <div2 type="article">
 
-<p>This further complicates the financial situation and gives additional interest to the Government plans shortly to be explained to the European Powers. England has assented to the colonial conference at Berlin, subject to certain explanations. These are satisfactory. According to rumor they relate to the British position on the Niger. Germany and France proposed to apply to the Niger the same system of administration and control as to the Congo, but seeing that the mouths of the Niger were lately occupied for England by Counsel Hewett it is hardly likely that Great Britain would encourage this Franco-German project. The English Foreign Office, however, is by no means dissatisfied with the prospects for the Conference, since it promises to carry out Lord Granville's plan, advocated months ago, with the Portuguese in connection with the unfortunate Congo treaty.</p>
+<p>This further complicates the financial situation and gives additional interest to the Government plans shortly to be explained to the European Powers. England has assented to the colonial conference at Berlin, subject to certain explanations. These are satisfactory. According to rumor they relate to the British position on the <placeName key="riv.nig" n="mapped"><geogName type="river">Niger</geogName></placeName>. Germany and France proposed to apply to the Niger the same system of administration and control as to the Congo, but seeing that the mouths of the Niger were lately occupied for England by Counsel Hewett it is hardly likely that Great Britain would encourage this Franco-German project. The English Foreign Office, however, is by no means dissatisfied with the prospects for the Conference, since it promises to carry out Lord Granville's plan, advocated months ago, with the Portuguese in connection with the unfortunate Congo treaty.</p>
 
 </div2>
 

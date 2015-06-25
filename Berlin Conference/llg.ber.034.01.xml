@@ -65,10 +65,10 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Kasson, John A. 1822-1910</term>
 </keywords>
 
-<keywords scheme="getty" n="places">
+<keywords scheme="original" n="places">
 <term/>
 </keywords>
 
@@ -91,6 +91,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2015-06-08" who="#kln">added people</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-21" who="#kln">encoded transcription</change>
 </revisionDesc>

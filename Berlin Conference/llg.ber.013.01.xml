@@ -67,8 +67,9 @@
 <term/>
 </keywords>
 
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo River</term>
+<term>Niger River</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -90,6 +91,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2015-06-08" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-10" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -109,7 +111,7 @@
 
 <div2 type="article">
 
-<p>Paris, Oct. 15. -- The yellow book just published shows that the Internation Congo Association promised to give preference to France in regard to concessions in the forthcoming African Conference shall recognize the Association's rights in the Congo regions. M. Ferry agreed to respect the position of the Association upon suggestion of Prince Bismarck. M. Ferry agreed to propose to the Conference an application of the Danubian principle to the navigation of the Congo and the Niger.</p>
+<p>Paris, Oct. 15. -- The yellow book just published shows that the Internation Congo Association promised to give preference to France in regard to concessions in the forthcoming African Conference shall recognize the Association's rights in the Congo regions. M. Ferry agreed to respect the position of the Association upon suggestion of Prince Bismarck. M. Ferry agreed to propose to the Conference an application of the Danubian principle to the navigation of the <placeName key="riv.con" n="mapped"><geogName type="river">Congo</geogName></placeName> and the <placeName key="riv.con" n="mapped"><geogName type="river">Niger</geogName></placeName>.</p>
 
 </div2>
 

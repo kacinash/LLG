@@ -67,8 +67,8 @@
 <term/>
 </keywords>
 
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Niger Delta</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -90,6 +90,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2015-06-08" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-10" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -109,7 +110,7 @@
 
 <div2 type="article">
 
-<p>The delay in the British acceptance of the Congo Conference arose from Lord Granville's insisting that all occupied parts of West Africa should be excluded from the action of the Powers, and that Consul Hewitt's recent Niger annexation should not be prejudiced. If anybody suffers through the Conference it will apparently be the Portugese, who have never properly occupied the districts they claim.</p>
+<p>The delay in the British acceptance of the Congo Conference arose from Lord Granville's insisting that all occupied parts of West Africa should be excluded from the action of the Powers, and that Consul Hewitt's recent <placeName key="del.nig" n="mapped">Niger</placeName> annexation should not be prejudiced. If anybody suffers through the Conference it will apparently be the Portugese, who have never properly occupied the districts they claim.</p>
 
 </div2>
 

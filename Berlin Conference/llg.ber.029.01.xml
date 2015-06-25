@@ -67,8 +67,8 @@
 <term/>
 </keywords>
 
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Basin</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -90,6 +90,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2015-06-08" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-15" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -109,7 +110,7 @@
 
 <div2 type="article">
 
-<p>Lisbon, Feb. 1. -- It is ascertained from diplomatic sources that the Portuguese government and the International African association have virtually reached an agreement concerning their respective rights and possessions in the Congo basin.</p>
+<p>Lisbon, Feb. 1. -- It is ascertained from diplomatic sources that the Portuguese government and the International African association have virtually reached an agreement concerning their respective rights and possessions in the <placeName key="bas.con" n="mapped"><geogName type="basin">Congo basin</geogName></placeName>.</p>
 
 </div2>
 

@@ -67,8 +67,8 @@
 <term/>
 </keywords>
 
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo River</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -90,6 +90,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2015-06-08" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-14" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -109,7 +110,7 @@
 
 <div2 type="article">
 
-<p>Berlin, Feb. 3 -- The Portugese government has formally taken possessson of both banks of the lower Congo, and the action confirms the opinion that Portugal will not deviate in the slightest degree from her position concerning her rights in Africa, and announced at the beginning of the Congo conference. </p>
+<p>Berlin, Feb. 3 -- The Portugese government has formally taken possession of both banks of the lower <placeName key="riv.con" n="mapped"><geogName type="river">Congo</geogName></placeName>, and the action confirms the opinion that Portugal will not deviate in the slightest degree from her position concerning her rights in Africa, and announced at the beginning of the Congo conference. </p>
 
 </div2>
 
