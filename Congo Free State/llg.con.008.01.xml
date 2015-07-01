@@ -75,8 +75,26 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Basin</term>
+Niari Basin
+Ogowe Basin
+Schari Basin
+Nile Basin
+Lake Tanganyika
+Zambesi
+Loge
+Leopoldville
+Stanley Pool
+Congo River
+Niger River
+Lusambo
+Lualaba-Kassai
+Kwilu
+Boma
+Banana
+Noki
+Kwango River
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -135,9 +153,7 @@
 
 <p>H. W. W., New York, January 2, 1905.</p>
 
-<gap reason="sampling" extent="about twenty pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about twenty pages"/>
 
 </div1>
 

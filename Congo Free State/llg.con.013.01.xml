@@ -75,8 +75,10 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Boma (Congo)</term>
+<term>Congo Free State</term>
+<term>Nigeria</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -122,7 +124,7 @@
 <head type="sub">Preface</head>
 
 <p>There are many of us in England who consider the crime which 
-has been wrought in the Congo lands by King Leopold of Belgium
+has been wrought in the <placeName key="con" n="mapped"><country type="colony">Congo lands</country></placeName> by King Leopold of Belgium
 and his followers to be the greatest which has ever been known
 in human annals. Personally I am strongly of that opinion.
 There have been great expropriations like that of the Normans
@@ -173,7 +175,7 @@ of England is uneasy and she is slowly rousing herself to act.
 Will America be behind?</p>
 
 <p>At this moment two American citizens, Shepherd and that noble
-Virginian, Morrison, are about to be tried at Borna for telling the
+Virginian, Morrison, are about to be tried at <placeName key="con.bom" n="mapped"><settlement type="city">Boma</settlement></placeName> for telling the
 truth about the scoundrels. Morrison in the dock makes a finer
 Statue of Liberty than Bartholdi's in New York harbour.</p>
 
@@ -181,7 +183,7 @@ Statue of Liberty than Bartholdi's in New York harbour.</p>
 apologists everywhere) to pretend that England wants to oust Belgium
 from her colony and take it herself. Such accusations are folly.
 To run a tropical colony honestly without enslaving the natives is
-an expensive process. For example Nigeria, the nearest English
+an expensive process. For example <placeName key="nig" n="mapped"><country type="colony">Nigeria</country></placeName>, the nearest English
 colony, has to be subsidized to the extent of $2,000,000 a year. Whoever
 takes over the Congo will, considering its present demoralized
 condition, have a certain expense of $10,000,000 a year for twenty

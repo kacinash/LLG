@@ -77,8 +77,19 @@ States of America</title>
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<!-- these are to be mapped as districts, not points; not encoded for mapping at this time -->
+<term>Banana (Congo)</term>
+<term>Bangala (Congo)</term>
+<term>Boma (Congo)</term>
+<term>Bosoko (Congo)</term>
+<term>Kasai River</term>
+<term>Leopoldville (Congo)</term>
+<term>Lukunga (Congo)</term>
+<term>Lumani (Congo)</term>
+<term>Manyanga (Congo)</term>
+<term>Matadi (Congo)</term>
+<term>Stanley Falls</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">

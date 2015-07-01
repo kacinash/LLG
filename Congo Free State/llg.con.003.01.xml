@@ -77,8 +77,28 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Ango-Ango</term> <!-- not encoded for mapping; could not locate -->
+<term>Banana (Congo)</term>
+<term>Boma (Congo)</term>
+<term>Boulambemba Point</term>--> <!-- not encoded for mapping; could not locate -->
+<term>Congo Basin</term>
+<term>Congo Free State</term>
+<term>Congo River</term>
+<term>Fetish Rock</term>--> <!-- not encoded for mapping; could not locate -->
+<term>Fuka-Fuka</term>--> <!-- not encoded for mapping; could not locate -->
+<term>Heron Bank</term>--> <!-- not encoded for mapping; could not locate -->
+<term>Kissanga (Congo) <!-- not encoded for mapping; could not locate -->
+<term>Kouilou River</term>
+<term>Leopoldville (Congo)</term>
+<term>Livingstone Falls</term>
+<term>Manyanga</term> <!-- not encoded for mapping; could not locate -->
+<term>Matadi (Congo)</term>
+<term>Noki (Congo)</term>
+<term>Ponta da Lenha (Congo)</term> <!-- not encoded for mapping; could not locate -->
+<term>Scotchman's Head</term>--> <!-- not encoded for mapping; could not locate -->
+<term>Stanley Pool</term>
+<term>Tchiwangi (Congo)</term> <!-- not encoded for mapping; could not locate -->
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -124,8 +144,8 @@ interwoven with a political idea, that of founding in the very heart of
 Africa an immense independent State, and the Comité changed its name
 and became henceforth "L'Association Internationale du Congo." Under
 this title the Society redoubled its efforts, and by the end of the year 1883,
-it had concluded with the various independent chiefs of the Congo basin,
-and that of the "Niadi Kwilu," more than one thousand treaties, by
+it had concluded with the various independent chiefs of the <placeName key="bas.con" n="mapped"><geogName type="basin">Congo basin</geogName></placeName>,
+and that of the "<placeName key="riv.kou" n="mapped"><geogName type="river">Niadi Kwilu</geogName></placeName>," more than one thousand treaties, by
 which the native chieftains ceded to it all their territorial rights over the
 immense domains included within the before-mentioned boundaries.</p>
 
@@ -151,13 +171,11 @@ work that we have outlined, and I breathe my most hearty wishes for its
 prosperous development and for the fulfillment of the grand ideas of its
 illustrious and noble founder."</p>
 
-<gap reason="sampling" extent="about four pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about four pages"/>
 
-<p>The Journey Up The Congo River</p>
+<p>The Journey Up The <placeName key="riv.con" n="mapped"><geogName type="river">Congo River</geogName></placeName></p>
 
-<p>Coming from the high sea, the first land sighted is a low sandy coast, fringed with verdure as a background, later a red clay; here is Point Pedraô. Further is Shark's point, oppositing which, on the right bank of the river, lies Banana.</p>
+<p>Coming from the high sea, the first land sighted is a low sandy coast, fringed with verdure as a background, later a red clay; here is Point Pedraô. Further is Shark's point, oppositing which, on the right bank of the river, lies <placeName key="con.ban" n="mapped"><settlement type="city">Banana</settlement></placeName>.</p>
 
 <p>This is the first of the settlements of the Congo Independent State passed on going up the Congo river, which, at its mouth, is eleven to twelve Kilom. wide. Here is a long range of white "factories," built on piles, and the port is accessible to vessels not drawing more than six metres of water; the rise of the tide is 1M.80. This harbor is claimed to be the best between the Congo river and the Cape of Good Hope. Although pilotage be free, an official service has been organized by the Independent Congo State. Every vessel of more than 500 tons, entering Banana, is to pay a fixed tax of 150 fr., which is intended to cover the State fro the expenses incurred by the placing of buoys, the building of lighthouses, etc. On paying this due, ships may receive a pilot of the State to take them in and out the harbor without any extra charge. Up to Boma and return pilotage tax is 300 fr. for four days. For each exceeding day an extra charge of 50 fr. is to be paid. Houses, both for dwelling and store-houses, have been built of brick and wood; a hotel has been erected by the Dutch Co. where travelers are boarded and lodged for seven shillings a day.</p>
 
@@ -181,23 +199,21 @@ illustrious and noble founder."</p>
 
 <p>At m'Boma the river is fifty metres deep, and is 4700 metres in width; here it is divided by islands into two arms."</p>
 
-<p>m'Boma may be considered as the interior port, or, as a Belgian writer has well expressed it, as "the Antwerp of the Congo;" the tide here is only six or seven centimetres. Here is stored all the merchandise sent from Banana to be distributed in the interior, and here come the native for traffic. It is at present the capital of the State of the centre of the commerce of the Lower Congo. The Dutch, English, French and Portuguese trading houses have large establishments here, employing about thirty whites and 600 blacks. A flourishing mission has been founded here by the Roman Catholic Church. In 1886 the Congo Independent State installed a postal service. It has also erected here an iron pier, well equipped with cranes for loading and unloading cargoes with the greatest facility. The government storehouses are connected with the wharves by a railroad. A Belgian commercial company, "les Magasins Généraux," is now building at m'Boma a huge hotel and spacious storehouses where all articles of consumption may be obtained at reasonable prices.</p>
+<p><placeName key="con.bom" n="mapped"><settlement type="city">m'Boma</settlement></placeName> may be considered as the interior port, or, as a Belgian writer has well expressed it, as "the Antwerp of the Congo;" the tide here is only six or seven centimetres. Here is stored all the merchandise sent from Banana to be distributed in the interior, and here come the native for traffic. It is at present the capital of the State of the centre of the commerce of the Lower Congo. The Dutch, English, French and Portuguese trading houses have large establishments here, employing about thirty whites and 600 blacks. A flourishing mission has been founded here by the Roman Catholic Church. In 1886 the Congo Independent State installed a postal service. It has also erected here an iron pier, well equipped with cranes for loading and unloading cargoes with the greatest facility. The government storehouses are connected with the wharves by a railroad. A Belgian commercial company, "les Magasins Généraux," is now building at m'Boma a huge hotel and spacious storehouses where all articles of consumption may be obtained at reasonable prices.</p>
 
 <p>Passing up the stream, twenty kilom. after leaving m'Boma, the panorama changes, lofty and well-wooded mountains appearing on the right bank, while those on the left are barren and dry. Here terminates the alluvial basin. Above the large island, "Des Princes," the islets have disappeared, and the river shows only a vast expanse of tranquil water, from 500 to 2000 metres wide, whose banks reach sometimes to an elevation of 350 metres. The navigation becomes more difficult, owing to an augmentation in the strength of the current and the more frequent appearance of rock-reefs and rapids.</p>
 
-<p>Seven hours' journey from m'Boma appears Noki, a Portuguese commercial centre and the last that belongs to that nation on the left bank of the Congo. Here is the frontier marked out by the Congress of Berlin; from this point both banks of the river belong to the Congo Independent State up to Manyanga, where the French possessions begin.</p>
+<p>Seven hours' journey from m'Boma appears <placeName key="ang.nok" n="mapped"><settlement type="city">Noki</settlement></placeName>, a Portuguese commercial centre and the last that belongs to that nation on the left bank of the Congo. Here is the frontier marked out by the Congress of Berlin; from this point both banks of the river belong to the Congo Independent State up to Manyanga, where the French possessions begin.</p>
 
 <p>Along the river between m'Boma and Noki are about thirty factories, all substations of houses established at m'Boma.</p>
 
-<p>Passing "Ango-Ango," "Fuka-Fuka" (where there are commercial houses), Underhill (where there is a Protestant mission), Matadi is reached. At this point begins land transportation for goods etc. From here will start the railway line which is to connect the Lower Congo with Leopoldville, on the Stanley Pool.</p>
+<p>Passing "Ango-Ango," "Fuka-Fuka" (where there are commercial houses), Underhill (where there is a Protestant mission), <placeName key="con.mat" n="mapped"><settlement type="city">Matadi</settlement></placeName> is reached. At this point begins land transportation for goods etc. From here will start the railway line which is to connect the Lower Congo with <placeName key="con.leo" n="mapped"><settlement type="city">Leopoldville</settlement></placeName>, on the <placeName key="lak.sta" n="mapped"><geogName type="lake">Stanley Pool</geogName></placeName>.</p>
 
 <p>Large ocean steamers can come to Matadi without breaking cargo.</p>
 
-<p>At Vivi, which is situated a little beyond Matadi on a plateau ninety-nine metres above the river, the navigation is stopped by the rapids. Further up the river begin the "Livingstone Falls."</p>
+<p>At Vivi, which is situated a little beyond Matadi on a plateau ninety-nine metres above the river, the navigation is stopped by the rapids. Further up the river begin the "<placeName key="fal.liv" n="mapped"><geogName type="falls">Livingstone Falls</geogName></placeName>."</p>
 
-<gap reason="sampling" extent="about ten pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about ten pages"/>
 
 </div1>
 

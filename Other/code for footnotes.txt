@@ -1,0 +1,14 @@
+<ref type="footnote" target="d001.06">6</ref>
+
+
+<back>
+<div1 type="notes">
+<note xml:id="d001.01">1. </note>
+<note xml:id="d001.02">2. </note>
+<note xml:id="d001.03">3. </note>
+<note xml:id="d001.04">4. </note>
+<note xml:id="d001.05">5. </note>
+<note xml:id="d001.06">6. </note>
+<note xml:id="d001.07">7. </note>
+</div1>
+</back>

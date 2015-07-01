@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -125,7 +125,7 @@
 
 <p>Boston, Oct. 7. -- Belgium's rule in the Congo was the subject of an animated, indeed bitter, debate at a meeting this afternoon in connection with the International Peace Congress. King Leopold was fiercely attacked and strenuously defended, and the speeches were punctuated with cheers and hisses.</p>
 
-<p>E. D. Morel of England, representing the Congo Reform Association, denounced the alleged condition of affairs in the Congo Free State. He declared that the natives were groaning and dying under a system of oppression and extortion; that the exploits of the Arab slave traders paled into insignificance beside the present state of things in the Congo, and that the people were groaning beneath a yoke heavier than the ten plagues of Egypt, but, unlike them, undeserved.</p>
+<p>E. D. Morel of England, representing the Congo Reform Association, denounced the alleged condition of affairs in the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName>. He declared that the natives were groaning and dying under a system of oppression and extortion; that the exploits of the Arab slave traders paled into insignificance beside the present state of things in the Congo, and that the people were groaning beneath a yoke heavier than the ten plagues of Egypt, but, unlike them, undeserved.</p>
 
 <p>Mr. Morel said the one aim of the rulers of the COngo was to increase the rubber output, and that in the attainment of the object whole districts had been devastated and rendered desolate. He alluded to the part the United States took in the establishment of the Congo State, and said that in appealing to Americans he was appealing to those who primarily, through of course unwittingly, riveted the chains around millions of helpless Africans. He bitterly assailed King Leopold for his policy in Africa, declaring that he was personally responsible in a large measure of the cruelties practiced on the natives. </p>
 

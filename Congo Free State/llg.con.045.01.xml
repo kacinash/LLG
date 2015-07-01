@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -117,7 +117,7 @@
 
 <p>London, May 15. -- In winding up the animated but resultless debate on the Congo question in the House of Commons to-day, Sir Edward Grey, the Foreign Secretary, said that the Government would naturally await the plan of annexation proposed by the Belgian Parliament. Belgium should be allowed to act in the matter without interference or pressure from the outside. The British Government must wait a reasonable time, but it could not wait indefinitely.</p>
 
-<p>There must, however, be a change in the system of governing the Congo. Sir Edward declared, it being impossible for the State to continue under its present irresponsible rule. He added that the British Government had always been willing to take part in a conference of the treaty powers, and the Government of the United States had expressed its willingness to approach the question from the same point of view, but two powers by themselves were not enough to form a conference.</p>
+<p>There must, however, be a change in the system of governing the <placeName key="con" n="mapped"><country type="colony">Congo</country></placeName>. Sir Edward declared, it being impossible for the State to continue under its present irresponsible rule. He added that the British Government had always been willing to take part in a conference of the treaty powers, and the Government of the United States had expressed its willingness to approach the question from the same point of view, but two powers by themselves were not enough to form a conference.</p>
 
 </div2>
 

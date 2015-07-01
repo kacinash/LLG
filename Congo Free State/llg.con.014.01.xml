@@ -74,8 +74,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -116,7 +116,7 @@
 
 <head type="sub">Important Dates in the Development of the Congo State.</head>
 
-<p>The founding of the Congo State resulted from the opening
+<p>The founding of the <placeName key="con" n="mapped"><country type="colony">Congo State</country></placeName> resulted from the opening
 of Central Africa through the explorations of Mr. Henry
 M. Stanley. An association was quickly formed, under the
 leadership of King Leopold of Belgium, for further exploration,

@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -111,13 +111,13 @@
 
 <p>England Firm on Congo.</p>
 
-<p>House of COmmons Will Support Government Move to Transfer Control.</p>
+<p>House of Commons Will Support Government Move to Transfer Control.</p>
 
 </div2>
 
 <div2 type="article">
 
-<p>London, Feb. 26. -- The House of Commons to-night, after a short debate, adopted a very strong resolution relating to the Congo Free State.</p>
+<p>London, Feb. 26. -- The House of Commons to-night, after a short debate, adopted a very strong resolution relating to the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName>.</p>
 
 <p>The resolution asks the Government to do all in its power to bring about the transfer of the control of the Congo region, and assures the Government that if it shall fail to accomplish this transfer in a diplomatic way within a reasonable time the House will heartily support it in any measures it may take, either alone or in conjunction with the powers that signed the Berlin Act, to insure the effective carrying out of the provisions of that act.</p>
 

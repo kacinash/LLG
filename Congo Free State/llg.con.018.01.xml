@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -130,7 +130,7 @@ by Senator Lodge pledging the support
 of the senate in advance to any steps President
 Roosevelt may take to interfere for the
 benefit of tho unfortunate inhabitants of the
-Congo Free State.</p>
+<placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName>.</p>
 
 <p>Senator Lodge has modified his original
 resolution once or twice, but there apparently

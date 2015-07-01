@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -117,7 +117,7 @@
 
 <div2 type="article">
 
-<p>Berlin, June 7. -- The approaching meeting on the German Colonial Society is likely to be the occasion of an acrimonious discussion of the Congo question. Some German authorities declare that international action should be taken to put an end of the ill-treatment of the natives, while others, like Dr. Wirth, maintain that natives of other colonies, including English possessions, are treated as badly as those in the Congo and advise Germany to hold aloof from the agitation.</p>
+<p>Berlin, June 7. -- The approaching meeting on the German Colonial Society is likely to be the occasion of an acrimonious discussion of the Congo question. Some German authorities declare that international action should be taken to put an end of the ill-treatment of the natives, while others, like Dr. Wirth, maintain that natives of other colonies, including English possessions, are treated as badly as those in the <placeName key="con" n="mapped"><country type="colony">Congo</country></placeName> and advise Germany to hold aloof from the agitation.</p>
 
 </div2>
 

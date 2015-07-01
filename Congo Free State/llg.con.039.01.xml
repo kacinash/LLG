@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -115,7 +115,7 @@
 
 <div2 type="article">
 
-<p>G. P. Putnam's Sons announce for publication "The Story of the Congo Free State," by Henry Wellington Wack. The author gives an intimate knowledge of the Congolese affairs, for he has lived abroad many years and has made a special study of the subject. The book contains accounts of the early Belgian expeditions against the Arab slave-traders, and the dervishes, whose rule Lord Kitchener crushed at Omdurman in 1898, its relations with the Powers which recognized its independence, and its trade and industries. Mr. Wack's work is supposed to throw new light on the present Congo controversy.</p>
+<p>G. P. Putnam's Sons announce for publication "The Story of the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName>," by Henry Wellington Wack. The author gives an intimate knowledge of the Congolese affairs, for he has lived abroad many years and has made a special study of the subject. The book contains accounts of the early Belgian expeditions against the Arab slave-traders, and the dervishes, whose rule Lord Kitchener crushed at Omdurman in 1898, its relations with the Powers which recognized its independence, and its trade and industries. Mr. Wack's work is supposed to throw new light on the present Congo controversy.</p>
 
 </div2>
 

@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -117,7 +117,7 @@
 
 <p>The Belgian Government undoubtedly
 regards the persistent attacks upon the
-administration of the Congo Free State
+administration of the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName>
 as calling for defense. What we must
 assume to be an official attempt to meet
 some of these charges is contained in a.

@@ -271,7 +271,7 @@ Search Results Page
     
    </form>
    
-   <h2>Your search for &#8220;<xsl:value-of select="$q"/>&#8221; returned <xsl:value-of select="/response/result/@numFound"/> result<xsl:if test="not(/response/result/@numFound = 1)">s</xsl:if>:
+   <h2>Your search for <i><xsl:value-of select="$q"/></i> returned <xsl:value-of select="/response/result/@numFound"/> result<xsl:if test="not(/response/result/@numFound = 1)">s</xsl:if>:
    </h2>
    
    
@@ -399,7 +399,7 @@ Individual Document Pages
        <xsl:if test=". != ''">
         <xsl:variable name="place"><xsl:value-of select="." /></xsl:variable>
         <span class="subjectLink">
-         <a href="{$siteroot}search/result.html?q=places:&quot;{$place}&quot;">
+         <a href="{$siteroot}search/result.html?q=place:&quot;{$place}&quot;">
           <xsl:value-of select="."/>
          </a>
         </span>
@@ -410,7 +410,36 @@ Individual Document Pages
     </p>
    </xsl:if>
    
-   
+
+   <xsl:if test="string(/TEI/teiHeader/profileDesc/textClass/keywords[@n='organization']/term[1])">
+    <p>
+     <xsl:text>Ethnic Group</xsl:text>
+     <xsl:if
+      test="count(/TEI/teiHeader/profileDesc/textClass/keywords[@n='organization']/term) &gt;= 2">
+      <xsl:text>s</xsl:text>
+     </xsl:if>
+     <xsl:text>:</xsl:text>
+     
+     <xsl:for-each select="string(/TEI/teiHeader/profileDesc/textClass/keywords[@n='organization']/term[1])">
+      <xsl:if test="string(.)">
+       <span class="subjectLink">
+        <a>
+         <xsl:attribute name="href">
+          <xsl:value-of select="$siteroot"/>
+          <xsl:text>search/result.html?q=organization:"</xsl:text>
+          <xsl:value-of select="."/>
+          <xsl:text>"</xsl:text>
+         </xsl:attribute>
+         <xsl:value-of select="."/>
+        </a>
+       </span>
+      </xsl:if>
+     </xsl:for-each>
+     
+    </p>
+   </xsl:if>   
+
+
    <xsl:if test="string(/TEI/teiHeader/profileDesc/textClass/keywords[@n='ethnic_group']/term[1])">
     <p>
      <xsl:text>Ethnic Group</xsl:text>

@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -119,7 +119,7 @@
 
 <div2 type="article">
 
-<p>Washington, Oct. 20. -- The Congo question, which is being thrust on President Roosevelt's attention, may become the subject of public debate. Thomas S. Barbour of Boston, Chairman of the Philanthropic Conference striving for the relief of natives of the Congo Free State from alleged atrocities at the hands of Belgian officers, has challenged Col. Henry Kowalsky, King Leopold's personal representative to the President, to a debate in Washington on the subject.</p>
+<p>Washington, Oct. 20. -- The Congo question, which is being thrust on President Roosevelt's attention, may become the subject of public debate. Thomas S. Barbour of Boston, Chairman of the Philanthropic Conference striving for the relief of natives of the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName> from alleged atrocities at the hands of Belgian officers, has challenged Col. Henry Kowalsky, King Leopold's personal representative to the President, to a debate in Washington on the subject.</p>
 
 <p>At the Belgian Legation it was said that it was likely that Col. Kowalsky would consent to the debate. Col. Kowalsky is thoroughly cosmopolitan, has a great following on the Pacific Coast, and is a personal friend of King Leopold.</p>
 

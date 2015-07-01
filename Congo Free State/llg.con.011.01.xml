@@ -76,8 +76,11 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Basin</term>
+<term>Congo Free State</term>
+<term>French Congo</term> <!-- not encoded for mapping at this time -->
+<!--<term>West Coast of Africa</term>-->
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -243,7 +246,7 @@ them -- and they will win.</p>
 <p>A few weeks ago I suggested to a friend who, although entirely
 unconnected with Congo affairs, shares nevertheless the feelings
 of indignation entertained by all impartial observers at the monstrous
-abuses of which the Congo Basin has become the scene, the publication
+abuses of which the <placeName key="bas.con" n="mapped"><geogName type="basin">Congo Basin</geogName></placeName> has become the scene, the publication
 of a pamphlet dealing with the subject, which I volunteered to write
 and compile, if he would defray the cost of printing and distribution.
 This he generously agreed to do. I can only hope that what is written
@@ -259,7 +262,7 @@ the end.</p>
 effect an appeal to the people of the civilized world, whose
 representatives signed the Berlin Act of 1885, and the Brussels
 Act of 1890, to unite in putting pressure upon their respective
-Governments to take the territories known as the Congo State
+Governments to take the territories known as the <placeName key="con" n="mapped"><country type="colony">Congo State</country></placeName>
 out of the hands of King Leopold II, now dictator over a million
 square miles in Africa, inhabited by twenty million negroes; and
 by such measures as may be decided upon at a new Conference, to

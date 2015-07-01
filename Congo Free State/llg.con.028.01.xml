@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -121,7 +121,7 @@
 
 <p>Washington, Jan. 14 -- Secretary Root has received more resolutions adopted by Armenian organizations in this country seeking intervention by the United States in favor of their countrymen reported to be suffering from Turks in Macedonia.</p>
 
-<p>It is reported that so far there is no disposition on the part of the administration to take additional steps relative to either the Armenian or the Congo question. In the case of the Congo, the Belgian government has now unofficially but strenuously declined to recognize the right of even the powers signatory to the Congo convention to interfere in the administration of that territory, so that there is, in the mind of administration officials, still less warrant for intervention by the United States, which is not a signatory power.</p>
+<p>It is reported that so far there is no disposition on the part of the administration to take additional steps relative to either the Armenian or the Congo question. In the case of the <placeName key="con" n="mapped"><country type="colony">Congo</country></placeName>, the Belgian government has now unofficially but strenuously declined to recognize the right of even the powers signatory to the Congo convention to interfere in the administration of that territory, so that there is, in the mind of administration officials, still less warrant for intervention by the United States, which is not a signatory power.</p>
 
 </div2>
 

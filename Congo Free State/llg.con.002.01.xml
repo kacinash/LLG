@@ -77,8 +77,11 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<!--<term>Isangila (Congo)</term>--> <!-- this is not in the document -->
+<term>Kouilou River</term>
+<!--<term>Leopoldville (Congo)</term>--> <!-- this is not in the document -->
+<!--<term>Manyanga</term>--> <!-- not encoded, cannot locate -->
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -119,11 +122,9 @@
 <desc>irrelevant to author's discussion</desc>
 </gap>
 
-<p>The frontiers of the three Powers will be best studied on the map illustrating the present paper; but I may mention that by the convention with Portugal this Power gets the south or left bank of the Congo, from its mouth to Nokki, a distance of 90 miles, where there is a Portuguese and a French factory, the Association retaining the right bank with 23 miles of coast extending from Banana to a point south of Kabinda Bay. Here Portuguese territory again begins, so as to inclose the district round Kabinda, Molembo, Landana, and Massabe where the Association has long been established. This Portuguese enclave, as it is called, extends inland for 30 or 40 miles, as far east as the Lucullu, a left tributary of the Chiloango. From Nokki the Portuguese frontier runs east to the Kwango, a left tributary of the Congo, and then turns south. By the convention with France the Association yields up to this Power the whole of the valley of the Kwilu, called on its upper reaches the Niadi, where it was in possession of large tracts of country, and had established no less than eighteen stations. In exchange for this concession it retains the left bank of Stanley Pool which France had claimed through an act of annexation of De Brazza's lieutenant, Serjeant Malamine. Above Manyanga and up the Congo to a point beyond the river Likona, this river forms the boundary between African France and the Free State. Beyond this again the territory of the latter widens considerably, comprising a wide unexplored belt on either side of the river to Lakes Tanganyika and Bangweolo.</p>
+<p>The frontiers of the three Powers will be best studied on the map illustrating the present paper; but I may mention that by the convention with Portugal this Power gets the south or left bank of the Congo, from its mouth to Nokki, a distance of 90 miles, where there is a Portuguese and a French factory, the Association retaining the right bank with 23 miles of coast extending from Banana to a point south of Kabinda Bay. Here Portuguese territory again begins, so as to inclose the district round Kabinda, Molembo, Landana, and Massabe where the Association has long been established. This Portuguese enclave, as it is called, extends inland for 30 or 40 miles, as far east as the Lucullu, a left tributary of the Chiloango. From Nokki the Portuguese frontier runs east to the Kwango, a left tributary of the Congo, and then turns south. By the convention with France the Association yields up to this Power the whole of the valley of the <placeName key="riv.kou" n="mapped"><geogName type="river">Kwilu</geogName></placeName>, called on its upper reaches the Niadi, where it was in possession of large tracts of country, and had established no less than eighteen stations. In exchange for this concession it retains the left bank of Stanley Pool which France had claimed through an act of annexation of De Brazza's lieutenant, Serjeant Malamine. Above Manyanga and up the Congo to a point beyond the river Likona, this river forms the boundary between African France and the Free State. Beyond this again the territory of the latter widens considerably, comprising a wide unexplored belt on either side of the river to Lakes Tanganyika and Bangweolo.</p>
 
-<gap reason="sampling" extent="about three pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about three pages"/>
 
 </div1>
 

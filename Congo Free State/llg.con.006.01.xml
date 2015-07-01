@@ -74,8 +74,10 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
+<term>Leopoldville (Congo)</term>
+<term>Stanley Pool</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -140,7 +142,7 @@
 
 <p>Resolution.</p>
 
-<p>"We, as individual missionaries of the various Protestant Missionary Societies of several nationalities, working in Congoland, now assembled in Conference at Leopoldville, Stanley Pool, Sept. 19th, 1907, while giving credit to the Authorities for some slight improvement in the condition of the people, in a few favored parts of the Congo, unanimously express our deep regret that up to the present no adequate measures have been enforced to relieve the situation as a whole, the condition of the natives of the Congo Independent State being still unutterably deplorable notwithstanding boasted reforms.</p>
+<p>"We, as individual missionaries of the various Protestant Missionary Societies of several nationalities, working in Congoland, now assembled in Conference at <placeName key="con.leo" n="mapped"><settlement type="city">Leopoldville</settlement></placeName>, <placeName key="lak.sta" n="mapped"><geogName type="lake">Stanley Pool</geogName></placeName>, Sept. 19th, 1907, while giving credit to the Authorities for some slight improvement in the condition of the people, in a few favored parts of the Congo, unanimously express our deep regret that up to the present no adequate measures have been enforced to relieve the situation as a whole, the condition of the natives of the Congo Independent State being still unutterably deplorable notwithstanding boasted reforms.</p>
 
 <p>"We are profoundly thankful for all the efforts that have been put forth in Europe and America for the amelioration of the unhappy state of these oppressed and despairing peoples.</p>
 

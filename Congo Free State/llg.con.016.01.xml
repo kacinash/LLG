@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -141,7 +141,7 @@
 
 <p>The socialist leader described the extermination of whole villages in southwest Africa by German troops, which massacred adults and then drowned children in the river. The most the government could say in reply was that there had been abuses, but that the reports were exaggerated. The Spectator today says:</p>
 
-<p>"There is positive danger lest the whole native population of Africa become permeated with a dread and hatred on white men. It is reported from many quarters that this feeling already is betraying itself throughout the vast dominion of the Congo state. It may easily spread southward and northward till the entire continent is filled with a hostility to Europe resembling that which 800 years ago undermined the ascendancy of the triumphant Spanish monarchy.</p>
+<p>"There is positive danger lest the whole native population of Africa become permeated with a dread and hatred on white men. It is reported from many quarters that this feeling already is betraying itself throughout the vast dominion of the <placeName key="con" n="mapped"><country type="colony">Congo state</country></placeName>. It may easily spread southward and northward till the entire continent is filled with a hostility to Europe resembling that which 800 years ago undermined the ascendancy of the triumphant Spanish monarchy.</p>
 
 <p rend="subtitle">Blacks May Band Against Whites.</p>
 

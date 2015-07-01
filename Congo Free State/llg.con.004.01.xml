@@ -75,8 +75,14 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Domaine Prive</term> <!-- not encoded for mapping at this time -->
+<term>Katanga River</term> <!-- not encoded for mapping; could not locate -->
+<term>Lake Leopold</term>
+<term>Lake Tumba</term>
+<term>Lomami River</term>
+<term>Lualaba River</term>
+<term>Urua River</term> <!-- not encoded for mapping; could not locate -->
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -113,11 +119,11 @@
 
 <p>In view of the controversy concerning the trade exploitation of the Congo Free State which has in recent times assumed such widespread proportions and which has attracted the attention of statesmen, diplomatists and Chambers of Commerce throughout the civilised world-we publish a map of the territory of the Congo Free State embracing an area in rough numbers of one million square miles. In this map the Domaine Privé occupies the shaded portion. As will be seen it covers nearly the entire territory of the Congo State, the Lower Congo (from the mouth of the River to Leopoldsville) and an insignificant portion of the Upper Congo being alone open to free competitive trade. The Domaine Privé is now divided into four parts.</p> 
 
-<p>Part I is the Domaine Privé stricto sensu where the State has the sole monopoly of the exploitation of the products of the soil. It comprises the Basins of the M'Bomu, Welle, Mongalla, Itimbri, Aruwimi, Loposi and Maringa, Lakes Leopold II. and Tumba and the Lukenie.</p> 
+<p>Part I is the Domaine Privé stricto sensu where the State has the sole monopoly of the exploitation of the products of the soil. It comprises the Basins of the M'Bomu, Welle, Mongalla, Itimbri, Aruwimi, Loposi and Maringa, Lakes <placeName key="lak.leo" n="mapped"><geogName type="lake">Leopold II.</geogName></placeName> and <placeName key="lak.tum" n="mapped"><geogName type="lake">Tumba</geogName></placeName> and the Lukenie.</p> 
 
 <p>Part II is nominally open to free trade. It consists of the Lower Congo and the portions left unshaded on the map.<ref type="footnote" target="n01">1</ref></p>
 
-<p>Part III includes the Basins of the Congo, Lualaba, Upper Lomami, Urua and Katanga. The whole of this region has remained closed to free trade since 1892. Last year, however, arrangements were made between the State and the Thys Trust to work a portion of it on a basis of two-thirds profits to the State and one-third to the Thys Trust. </p>
+<p>Part III includes the Basins of the Congo, <placeName key="riv.lua" n="mapped"><geogName type="river">Lualaba</geogName></placeName>, Upper <placeName key="riv.lom" n="mapped"><geogName type="river">Lomami</geogName></placeName>, Urua and Katanga. The whole of this region has remained closed to free trade since 1892. Last year, however, arrangements were made between the State and the Thys Trust to work a portion of it on a basis of two-thirds profits to the State and one-third to the Thys Trust. </p>
 
 <p>Part IV The Kasai Basin and its affluents.</p>
 

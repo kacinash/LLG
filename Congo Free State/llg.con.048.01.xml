@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -117,7 +117,7 @@
 
 <div2 type="article">
 
-<p>Brussels, Feb. 23. -- The situation in the matter of the annexation to Belgium of the Congo Independent State again is assuming a disquieting aspect.</p>
+<p>Brussels, Feb. 23. -- The situation in the matter of the annexation to Belgium of the <placeName key="con" n="mapped"><country type="colony">Congo Independent State</country></placeName> again is assuming a disquieting aspect.</p>
 
 <p>It is stated that King Leopold has taken back all his fair promises and now demands that the special fund which was to replace the Crown domain be placed under his control, and not under that of Parliament, as it was originally agreed. In addition he asks that $50,000,000 be placed at his disposal to carry out various projects.</p>
 

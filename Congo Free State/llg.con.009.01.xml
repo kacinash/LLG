@@ -44,7 +44,7 @@
 <title level="j" type="main">The American Journal of International Law</title>
 <biblScope type="vol">3</biblScope>
 <biblScope type="issue">1</biblScope>
-<biblScope type="pages">99-118</biblScope>
+<biblScope type="pages">103-118</biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -77,8 +77,13 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Basin</term>
+<term>Congo Free State</term>
+<term>Congo River</term>
+<term>Lake Tanganyika</term>
+<term>Sudan</term> <!-- not sure if referring to a river or the country? not encoded for mapping at this time -->
+<term>Zambezi River</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -133,7 +138,7 @@ introduced into central Africa; and, third, to find means of suppressing
 the negro slave trade in Africa. The methods for the
 attainment of these objects were (1) an organization "upon one
 common international plan" for the exploration of Africa from
-ocean to ocean and from the Zambesi to the Soudan, and (2) the
+ocean to ocean and from the <placeName key="riv.zam" n="mapped"><geogName type="river">Zambesi</geogName></placeName> to the Soudan, and (2) the
 establishment of scientific and relief stations within this territory.
 Both of the objects were therefore, scientific and humanitarian. The
 methods were to be international, i. e., distinctly nonpolitical. An
@@ -150,13 +155,11 @@ June, 1877, the International Commission seems to have done nothing.
 The various national committees had little or no vitality at any
 time. What activity Leopold's interest aroused outside of Belgium
 took the form of national or private expeditions. The Belgian committee,
-however, energized by Leopold, sent an expedition to Tanganyika, which had few results, geographical or otherwise. It served,
+however, energized by Leopold, sent an expedition to <placeName key="lak.tan" n="mapped"><geogName type="lake">Tanganyika</geogName></placeName>, which had few results, geographical or otherwise. It served,
 however, to give continuity to the organization and to, perpetuate the
 name of the association.</p>
 
-<gap reason="sampling" extent="about three pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about three pages"/>
 
 <p>In 1884 its territorial claims were large; it comprised the territory
 south of the Congo and drained by that river and its affluents. But
@@ -187,9 +190,7 @@ contended that any of the Belgians in its service foreswore allegiance
 to Belgium, substituting therefor an allegiance to the International
 Association of the Congo.<ref type="footnote" target="n03">3</ref></p>
 
-<gap reason="sampling" extent="about one page">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about one page"/>
 
 <p>Whether led by the belief that Leopold was doing his work for
 the benefit of England,<ref type="footnote" target="n04">4</ref> or in order to check the growing colonial
@@ -198,7 +199,7 @@ when he signed the Anglo-Portuguese treaty of February 26, 1884.
 The date may be taken as the terminus a quo of the really political
 significance of the Congo project. This treaty recognized the hitherto
 shadowy title of Portugal to that part of the African west coast
-through which the Congo River debouches, between 5° 12' and 8°
+through which the <placeName key="riv.con" n="mapped"><geogName type="river">Congo River</geogName></placeName> debouches, between 5° 12' and 8°
 south latitude. This volte-face on the part of Great Britain, which
 had previously denied Portugal's claims, was denounced by the
 British press and in Parliament. Leopold appealed to Granville to
@@ -216,9 +217,7 @@ such as had been considered some time before by the Institute of
 International Law. These two Powers were drawn into an entente
 by which Leopold would surely be the gainer.</p>
 
-<gap reason="sampling" extent="about four pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about four pages"/>
 
 <p>It is impossible within the limits of the present paper to enter
 into detail as to the results of the Berlin Conference as embodied
@@ -228,8 +227,8 @@ Act refer particularly to the regime for the Congo, though nowhere
 is the Congo Association mentioned. The terms of the General Act
 are general and affect all territories with the so-called "conventional
 free-trade zone" as defined by the act. That tho conference applied
-its stipulations to a territory larger than the mere geographical basin
-of the Congo was due to the initiative of the American representatives.
+its stipulations to a territory larger than the mere geographical <placeName key="bas.con" n="mapped"><geogName type="basin">basin
+of the Congo</geogName></placeName> was due to the initiative of the American representatives.
 Mr. Kasson suggested that the "commercial basin" of the
 Congo should be considered, rather than the geographical one. Stanley
 urged this plan, but was surprised to notice" a curious reluctance
@@ -244,13 +243,11 @@ there was to be absolute freedom of commerce. No power
 which exercised rights of sovereignty within the zone was to grant
 monopolies or privileges of any kind in commercial matters.</p>
 
-<gap reason="sampling" extent="about two pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about two pages"/>
 
 <p>Freedom from import duties in the conventional zone, while making
-for commercial freedom, seriously handicapped the Congo Free
-State in its internal administration by cutting off a large and necessary
+for commercial freedom, seriously handicapped the <placeName key="con" n="mapped"><country type="colony">Congo Free
+State</country></placeName> in its internal administration by cutting off a large and necessary
 source of income. In 1890 the representatives of the powers
 again assembled, this time at Brussels. The ostensible purpose
 of this meeting was to take further steps for the suppression of the
@@ -296,9 +293,7 @@ active, where liberal ideas find such ready expression, responsible
 parliamentary government must surely be a guaranty that the provisions
 of the Berlin Act will be observed in spirit as well as in letter.</p>
 
-<gap reason="sampling" extent="one paragraph">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="one paragraph"/>
 
 </div1>
 

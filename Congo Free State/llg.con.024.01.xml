@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -123,7 +123,7 @@
 
 <div2 type="article">
 
-<p>Boston, Oct. 8. -- In a brief after-dinner speech delivered before the International Peace congress, Booker T. Washington arraigned the Belgian government for the alleged outrages in the Congo Free State, declaring that he had evidence of abuse and cruelty and said that a state of affairs existed that was a blot upon modern civilization.</p>
+<p>Boston, Oct. 8. -- In a brief after-dinner speech delivered before the International Peace congress, Booker T. Washington arraigned the Belgian government for the alleged outrages in the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName>, declaring that he had evidence of abuse and cruelty and said that a state of affairs existed that was a blot upon modern civilization.</p>
 
 <p>Introducing Mr. Washington, Robert Treat Paine, president of the congress and toastmaster of the evening, referred to him as "Honored almost universally throughout this country, but especially in Boston."</p>
 

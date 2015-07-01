@@ -69,7 +69,9 @@
 </keywords>
 
 <keywords scheme="original" n="places">
-<term/>
+<term>Belgian Congo</term>
+<term>Egypt</term>
+<term>Tripoli (Ottoman Empire)</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -91,6 +93,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2015-06-30" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-22" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -110,7 +113,7 @@
 
 <div2 type="article">
 
-<p>Paris, Feb. 4. -- It It is expected here that Portugal's action in the Congo country will lead to an imbroglio. King Leopold's delegate to tho Berlin conference had a long consultation to-day with Premier Ferry in relation to the settlement of the
+<p>Paris, Feb. 4. -- It is expected here that Portugal's action in the Congo country will lead to an imbroglio. King Leopold's delegate to tho Berlin conference had a long consultation to-day with Premier Ferry in relation to the settlement of the
 disputed Congo points.</p>
 
 <p>The Temps says the recognition by France of the African International Association is expected at an early day.</p>
@@ -119,11 +122,11 @@ disputed Congo points.</p>
 
 <p>London, Feb. 4. -- Earl Granville, the Foreign Secretary, in reply to the Manchester Chamber of Commerce stated that the Government was not aware of the seizure by Portugal of the territory at the mouth of the Congo, and that inquiries were being matte at Lisbon in regard to the matter.</p>
 
-<p>Advices from North Africa state that great excitement prevails at Tripoli and Bengazi over the designs of Italy in regard to the occupation of lands along the northern coast of Africa. Several sheikhs and other officials have arrested Italians who were making large purchases of land.</p>
+<p>Advices from North Africa state that great excitement prevails at <placeName key="ott.tri" n="mapped"><settlement type="city">Tripoli</settlement></placeName> and Bengazi over the designs of Italy in regard to the occupation of lands along the northern coast of Africa. Several sheikhs and other officials have arrested Italians who were making large purchases of land.</p>
 
 <p>Lord Granville has received no official confirmation of the reported seizure by Portugal of the banks of the Congo River and of the contested territory on the west coast of Africa. the report, however, is credited at the Foreign Office, and the summary action of Portugal is felt to be rather a snub to England. The good offices of the English Government have recently been exerted in favor of the International African Association, and Portugal has been advised to come to an amicable arrangement with the association and France on the basis of giving the association an outlet to the sea in return for land in the interior. Portugal has now not only rejected this advice, but has defied the International Association and the powers represented in the Congo conference. The situation is further complicated by tho fact that the English Ministry several months ago agreed to a treaty with Portugal recognizing her right to the possession of the very territory she has now seized. Her claim to the territory is based upon the right of discovery, and now that this claim is reinforced by actual possession it may be a difficult matter to dispute her pretensions without actual warfare, which none of the powers is believed to desire. It is stated that Prince Bismarck has been asked to arbitrate between Portugal, France, and the association.</p>
 
-<p>Edinburgh, Feb, 4. -- Mr. Goschen, member of Parliament, in an address to the Rosebery Club last evening, said the whole of Europe was now one gigantic  power controlled by one man, and that it behooved England, now that Europe had been seized by the colonizing mania, to decide what she could admit and what she could not admit in respect to both Egypt and the Congo. He believed, however, that Prince Bismarck was not actuated by a feeling of unfriendliness toward England.</p>
+<p>Edinburgh, Feb, 4. -- Mr. Goschen, member of Parliament, in an address to the Rosebery Club last evening, said the whole of Europe was now one gigantic  power controlled by one man, and that it behooved England, now that Europe had been seized by the colonizing mania, to decide what she could admit and what she could not admit in respect to both <placeName key="egy" n="mapped"><country type="nation">Egypt</country></placeName> and the <placeName key="con" n="mapped"><country type="colony">Congo</country></placeName>. He believed, however, that Prince Bismarck was not actuated by a feeling of unfriendliness toward England.</p>
 
 </div2>
 

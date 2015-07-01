@@ -73,8 +73,9 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
+<term>French Congo</term> <!-- not encoded for mapping at this time -->
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -117,7 +118,7 @@
 
 <div2 type="article">
 
-<p>We must not be deceived by appearances. Although the conditions under which Belgium shall take over the Congo State are now being discussed at Brussels, the Congo question is not a Belgian question, but an international one. There is a French Congo and a Portuguese Congo; there may, perhaps, be a Belgian Congo, but there is not one to-day.</p>
+<p>We must not be deceived by appearances. Although the conditions under which Belgium shall take over the <placeName key="con" n="mapped"><country type="colony">Congo State</country></placeName> are now being discussed at Brussels, the Congo question is not a Belgian question, but an international one. There is a French Congo and a Portuguese Congo; there may, perhaps, be a Belgian Congo, but there is not one to-day.</p>
 
 </div2>
 

@@ -75,8 +75,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -132,17 +132,13 @@ disclose either in England or America.</p>
 
 </div2>
 
-<gap reason="sampling" extent="about two pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about two pages"/>
 
 <div2 type="section">
 
 <head type="sub">Morel's Attacks.</head>
 
-<gap reason="sampling" extent="about half a page">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about half a page"/>
 
 <p>The success of the
 Belgians in the Congo Basin is a confutation of that idea and
@@ -158,15 +154,11 @@ England to rehabilitate and act upon the idea that she alone of all
 the governments of the earth is the natural protector of the downtrodden
 and the oppressed.</p>
 
-<gap reason="sampling" extent="about a page">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about a page"/>
 
 </div2>
 
-<gap reason="sampling" extent="about three pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about three pages"/>
 
 <div2 type="section">
 
@@ -179,7 +171,7 @@ the Journal of Commerce of January 4th, 1905, announced to the
 world that the charges made against King Leopold and the Congo
 government were absolutely without foundation. To use her
 own words, "The evidence is absolutely conclusive that the labors
-of the Congo Free State have added to the material prosperity, the
+of the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName> have added to the material prosperity, the
 happiness, and the development of the natives, whilst the opening
 up of the country and the introduction of order and s stem in place
 of chaos ill forever redound to the credit of King Leopold and
@@ -187,9 +179,7 @@ those with whom he is associated."</p>
 
 </div2>
 
-<gap reason="sampling" extent="about two pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about two pages"/>
 
 <div2 type="section">
 
@@ -213,9 +203,7 @@ resources of the country.</p>
 
 </div2>
 
-<gap reason="sampling" extent="about a page">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about a page"/>
 
 <div2 type="section">
 
@@ -291,9 +279,7 @@ been built up in the advancement of the wards of this nation.</p>
 
 </div2>
 
-<gap reason="sampling" extent="two paragraphs">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="two paragraphs"/>
 
 <div2 type="section">
 
@@ -309,17 +295,13 @@ of its governmental functions.</p>
 
 </div2>
 
-<gap reason="sampling" extent="about 11 pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about 11 pages"/>
 
 <div2 type="section">
 
 <head type="main">Appendix.</head>
 
-<gap reason="sampling" extent="about 2 pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about 2 pages"/>
 
 </div2>
 
@@ -633,9 +615,7 @@ The President of the Federation pour le Defense des Interets Belges a l'Etranger
 
 </div2>
 
-<gap reason="sampling" extent="two pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="two pages"/>
 
 <div2 type="section">
 

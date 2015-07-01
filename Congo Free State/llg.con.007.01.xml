@@ -72,8 +72,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo River</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -144,7 +144,7 @@ to natives; above all they regulate the labor-tax and abolish the
 use of capitas or armed native sentries.</p>
 
 <p>It is a large undertaking to put these reforms into operation
-throughout the whole territory of the Congo, which occupies an
+throughout the whole territory of the <placeName key="riv.con" n="mapped"><geogName type="river">Congo</geogName></placeName>, which occupies an
 area about one-third the size of the United States. Nevertheless
 the work has been pushed forward rapidly. Instructions in
 regard to disarming the native sentries were issued by the Vice

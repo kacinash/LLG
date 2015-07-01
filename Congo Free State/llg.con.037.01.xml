@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -119,7 +119,7 @@
 
 <div2 type="article">
 
-<p>Washington, Oct. 17. -- President Roosevelt has had the moot question of Congo civilization under Belgian auspices brought to his attention in a unique manner. Col. Henry I. Kowalsky, a lawyer of San Francisco, called on the President today at the request of King Leopold of Belgium to present the reply of the Federation of the Defense of Belgian Interests Abroad to the attacks made by certain British interests upon the Government of the Congo Free State.</p>
+<p>Washington, Oct. 17. -- President Roosevelt has had the moot question of Congo civilization under Belgian auspices brought to his attention in a unique manner. Col. Henry I. Kowalsky, a lawyer of San Francisco, called on the President today at the request of King Leopold of Belgium to present the reply of the Federation of the Defense of Belgian Interests Abroad to the attacks made by certain British interests upon the Government of the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName>.</p>
 
 <p>Col. Kowalsky told the President that the purpose of the British "humanitarians" was to entangle the American Government in African affairs, not  for the amelioration of the condition of the natives, but to open the question of sovereignty over those regions by calling a conference of the powers, at which it is hoped England may establish the contention that Belgium is unable to maintain an effective government on the Congo.</p>
 

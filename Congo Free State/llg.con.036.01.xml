@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -121,7 +121,7 @@
 
 <div2 type="article">
 
-<p>Despite the reported refusal of President Roosevelt to take a hand, there are indications that the friends of Congo reform may make this country their principal battle ground during the next few months in their fight for the overthrow of King Leopold's rule in the Congo Free State, or for a complete transformation, at least, of the administrative methods employed by his agents there. </p>
+<p>Despite the reported refusal of President Roosevelt to take a hand, there are indications that the friends of Congo reform may make this country their principal battle ground during the next few months in their fight for the overthrow of King Leopold's rule in the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName>, or for a complete transformation, at least, of the administrative methods employed by his agents there. </p>
 
 <p>E. D. Morel, Secretary of the Congo Reform Association in Great Britain, who came here two weeks ago to bear a memorial to President Roosevelt to take the initiative for Congo reform, turned to this city yesterday after appearing before the Boston Peace Congress.</p>
 

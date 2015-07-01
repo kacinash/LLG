@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -115,7 +115,7 @@
 
 <div2 type="article">
 
-<p>The Congo Free State has been pictured to American readers as the darkest, bloodiest part of Africa. It is comforting to be assured by Prof. Starr that most of the atrocities reported from the Congo, so far as there is any truth in the report, belong to a comparatively remote period, and may be ascribed in large part to an irrepressible recrudescence of savagery among the native troops. If conditions are not ideal in the Congo forests, at any rate the natives are better off than in the period of constant cruel intertribal wars.</p>
+<p>The <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName> has been pictured to American readers as the darkest, bloodiest part of Africa. It is comforting to be assured by Prof. Starr that most of the atrocities reported from the Congo, so far as there is any truth in the report, belong to a comparatively remote period, and may be ascribed in large part to an irrepressible recrudescence of savagery among the native troops. If conditions are not ideal in the Congo forests, at any rate the natives are better off than in the period of constant cruel intertribal wars.</p>
 
 <p>It is not so comforting to be told that the worst truths about the Congo may be paralleled by instances from the German, French, Portuguese, or British possessions in Africa. This means not only that the sum of misery in the dark continent is larger than the American people have realized but also that if Uncle Sam, like a new Don Quixote, starts out to right the wrongs of the negro in Africa he will have his hands full. There is no reason to believe that the Belgian, the Frenchman, the German, the Portuguese, or the Englishman is inherently more cruel than the American, or that the isolated cases of cruelty of European officials are anything other than the result of combining a bad system and a bad climate.</p>
 

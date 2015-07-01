@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -120,7 +120,7 @@
 
 <p>[By the Associated Press -- P.M.]</p>
 
-<p>London, July 29. -- "The system of government in the Congo Independent State is one of the unrestrained tyranny, enforced by the bullet and by cruelty."</p>
+<p>London, July 29. -- "The system of government in the <placeName key="con" n="mapped"><country type="colony">Congo Independent State</country></placeName> is one of the unrestrained tyranny, enforced by the bullet and by cruelty."</p>
 
 <p>These words were spoken by Lord Monkswell, who raised the Congo question in the House of Lords today and moved for the papers. The attendance in the house was small.</p>
 

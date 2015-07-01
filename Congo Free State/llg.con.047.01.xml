@@ -73,8 +73,8 @@
 <term/>
 </keywords> 
  
-<keywords scheme="getty" n="places">
-<term/>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -117,7 +117,7 @@
 
 <div2 type="article">
 
-<p>Brussels, Sept. 8. -- King Leopold made another momentous move in the Congo question to-day by turning over the "Domain of the Crown" in the Congo Independent State to a joint stock company in which he is said to be interested.</p> 
+<p>Brussels, Sept. 8. -- King Leopold made another momentous move in the Congo question to-day by turning over the "Domain of the Crown" in the <placeName key="con" n="mapped"><country type="colony">Congo Independent State</country></placeName> to a joint stock company in which he is said to be interested.</p> 
 
 <p>This is the most important section of the Congo, ten times larger than Belgium, and was to revert to Belgium with annexation. Its transfer deprives Belgium of the most profitable part of the Independent State.</p>
 
