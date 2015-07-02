@@ -69,7 +69,18 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Bryce, James Bryce, Viscount, 1838-1922</term>
+<term>Carter, John R. (John Ridgely), 1862-1944</term>
+<term>Chevalier de Cuvelier</term>
+<term>Davignon, Julien 1854-1916</term>
+<term>de Trooz, Jules</term>
+<term>Grey of Fallodon, Edward Grey, Viscount, 1862-1933</term>
+<term>Hardinge, Arthur Henry, 1859-1933</term>
+<term>Reid, Whitelaw, 1837-1912</term>
+<term>Root, Elihu, 1845-1937</term>
+<term>Schollaert, Frans</term>
+<term>Smith, James A.</term>
+<term>Wilson, Henry Lane, 1857-1932</term>
 </keywords>
  
 <keywords scheme="original" n="labels">
@@ -77,11 +88,30 @@
 </keywords> 
  
 <keywords scheme="original" n="places">
-<term/>
+<term>Arakubi (Congo)</term> <!-- not encoded for mapping; couldn't locate -->
+<term>Boma (Congo)</term>
+<term>Congo Basin</term>
+<term>Congo Free State</term>
+<term>Domaine Privé</term> <!-- not encoded for mapping at this time -->
+<term>Ituri River</term>
+<term>Kilo (Congo)</term>
+<term>Kindu (Congo)</term>
+<term>Lake Albert</term>
+<term>Manyema District</term> <!-- not encoded for mapping; couldn't locate -->
+<term>Medje (Congo)</term> <!-- not encoded for mapping; couldn't locate -->
+<term>Nepoko (Congo)</term> <!-- not encoded for mapping; couldn't locate -->
+<term>Panga (Congo)</term> <!-- not encoded for mapping; couldn't locate -->
+<term>Portes d'Enfer</term> <!-- not encoded for mapping at this time -->
+<term>Stanleyville (Congo)</term>
+<term>Uele River</term>
+<term>Yambata (Congo)</term> <!-- not encoded for mapping; can't locate -->
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Bafuasoma</term>
+<term>Mambuti</term>
+<term>Medje</term>
+<term>Mokudu</term>
 </keywords>
 <keywords scheme="original" n="language">
 <term/>
@@ -105,6 +135,8 @@
 
 <text>
 
+<!-- In this document, mapping points are only encoded as placeName with n=mapped once where it first appears, even though it might reappear numerous times throughout this lengthy document - because right now, link is only to document, not location in document where mapping point appears. --> 
+
 <group>
 
 
@@ -123,11 +155,11 @@
 
 <head type="sub">American Legation, Brussels, January 10, 1908.</head>
 
-<p>Your telegram January 9 just received. The death of Prime Minister de Trooz has very much altered the situation relative to the annexation of the Kongo. I am informed that Minister Schollaert, on taking office insisted on such changes in the treaty of annexation as would lead to the absolute suppression of the so-called Domain of the Crown, which is the source of the greatest complaint, and the free and unrestricted exercise of Belgian sovereignty in every part of the Kongo. The new minister has just taken office this day, and all questions of policy are supposed to be in a state of transition.</p>
+<p>Your telegram January 9 just received. The death of Prime Minister de Trooz has very much altered the situation relative to the annexation of the <placeName key="con" n="mapped"><country type="colony">Kongo</country></placeName>. I am informed that Minister Schollaert, on taking office insisted on such changes in the treaty of annexation as would lead to the absolute suppression of the so-called Domain of the Crown, which is the source of the greatest complaint, and the free and unrestricted exercise of Belgian sovereignty in every part of the Kongo. The new minister has just taken office this day, and all questions of policy are supposed to be in a state of transition.</p>
 
 <p>Immediately on receipt of the department's telegram I submitted to the British minister, Sir Arthur Hardinge, a copy. He emphatically expressed the opinion that any action at the present time of transition would be unfair and ill considered. He stated also that he had as yet no definite instructions to act; that his instructions did not contemplate an urgent representation, but simply a private and informal hint.</p>
 
-<p>As the spirit of the department's prior instructions, as well as the fact that we are not signatory to the Berlin act, would indicate that in concerted action with the British minister my role should be one of support and in some sense secondary, I am obliged to ask whether the department now desires me to make an immediate and independent representation based on its instructions to American Ambassador Reid and its telegram of December 16.</p>
+<p>As the spirit of the department's prior instructions, as well as the fact that we are not signatory to the <ref type="internal" target="llg.ber.001.01">Berlin act</ref>, would indicate that in concerted action with the British minister my role should be one of support and in some sense secondary, I am obliged to ask whether the department now desires me to make an immediate and independent representation based on its instructions to American Ambassador Reid and its telegram of December 16.</p>
 
 <p>Wilson.</p>
 
@@ -155,7 +187,7 @@
 
 <p>Visited Belgian minister for foreign affairs in company with Sir Arthur H. Hardinge and made representation in accordance with our several instructions.</p>
 
-<p>I introduced the subject of our visit by saying that public opinion in the United States was deeply concerned over conditions m the Kongo region, alleged to be in violation of the act of Brussels, 1890, and that my Government was very solicitous at this moment of the possible taking over of the Kongo by Belgium; that important reforms should be instituted, especially in the carrying into effect of article 2 of the Brussels act. I said, moreover, that we are not concerned with the commercial or territorial aspects of the Kongo question, but that we reserved our right of approval of annexation until assured that the same would provide for the carrying into effect of the humanitarian provisions of the Berlin act, as reenforced and emphasized in the Brussels act of 1890. In conclusion, I expressed the hope that the treaty of annexation might [provide?] such safeguards for the execution of the Brussels act as would be satisfactory to international opinion and public opinion in the United States.</p>
+<p>I introduced the subject of our visit by saying that public opinion in the United States was deeply concerned over conditions m the Kongo region, alleged to be in violation of the act of Brussels, 1890, and that my Government was very solicitous at this moment of the possible taking over of the Kongo by Belgium; that important reforms should be instituted, especially in the carrying into effect of article 2 of the Brussels act. I said, moreover, that we are not concerned with the commercial or territorial aspects of the Kongo question, but that we reserved our right of approval of annexation until assured that the same would provide for the carrying into effect of the humanitarian provisions of the <ref type="internal" target="llg.ber.001.01">Berlin act</ref>, as reenforced and emphasized in the <ref type="internal" target="llg.con.015.01">Brussels act of 1890</ref>. In conclusion, I expressed the hope that the treaty of annexation might [provide?] such safeguards for the execution of the Brussels act as would be satisfactory to international opinion and public opinion in the United States.</p>
 
 <p>Sir Arthur H. Hardinge defined his Government's position at much greater length, but the substance of what he said was that the British Government, while not desirous of influencing the attitude of the Belgian Parliament, found it incumbent nevertheless to make known the fact that it reserved its right as a signatory to the Berlin act, in view of the possibility of the annexation of the Kongo not being carried out in conformity with its spirit.</p>
 
@@ -211,11 +243,11 @@ Henry Lane Wilson.</p>
 
 <p>The treaty of cession not having as yet been approved, and the colonial law not having been voted, the form of interior administration which will be effected by annexation is at this moment under examination and discussion is Parliament in the full exercise of the supreme authority of legislative right, and Sir A. Hardinge has thought it proper to indicate that the British Government was anxious to avoid all intrusion therein.</p>
 
-<p>Sir A. Hardinge has insisted, however, that no doubt should remain in the mind of the Belgian cabinet regarding the capital importance which the two Governments attach to the application by Belgium, if she should take the place of the Independent State of the Kongo, of the provisions of the international agreements regarding the absolute freedom of commerce, of the rights of Christian missionaries, and of the humane and equitable treatment of the native population. The minister of the United States has particularly insisted upon the importance which his Government attaches to the enforcement of the provisions of article 2 of the general act of Brussels concerning the treatment of the native races.</p>
+<p>Sir A. Hardinge has insisted, however, that no doubt should remain in the mind of the Belgian cabinet regarding the capital importance which the two Governments attach to the application by Belgium, if she should take the place of the Independent State of the Kongo, of the provisions of the international agreements regarding the absolute freedom of commerce, of the rights of Christian missionaries, and of the humane and equitable treatment of the native population. The minister of the United States has particularly insisted upon the importance which his Government attaches to the enforcement of the provisions of article 2 of the <ref type="internal" target="llg.con.015.01">general act of Brussels</ref> concerning the treatment of the native races.</p>
 
 <p>The treaty of cession, now before the Chambers, declares In Its first article that Belgium. in accepting the cession, assumes as its own the obligations established by treaties which the Kongo State has concluded with foreign powers. The Government of the King will observe in the execution of its engagements the same care and the same loyalty it applies, in spirit and in letter, to the convention, of whatever nature, which to-day bind Belgium with the Government of His Britannic Majesty and of all other powers.</p>
 
-<p>Regarding that which particularly concerns the provisions of the general act of Berlin of February 26, 1885, and of that of Brussels of July 2, 1890, concerning the conventional basin of the Kongo, it might be well to recall that Belgium is a directly contracting party to these international acts, and that her plenipotentiaries took a part therein, which is a sure guaranty of the intentions which to-day inspire the Belgian Government.</p>
+<p>Regarding that which particularly concerns the provisions of the <ref type="internal" target="llg.ber.001.01">general act of Berlin</ref> of February 26, 1885, and of that of <ref type="internal" target="llg.con.015.01">Brussels</ref> of July 2, 1890, concerning the conventional <placeName key="bas.con" n="mapped"><geogName type="basin">basin of the Kongo</geogName></placeName>, it might be well to recall that Belgium is a directly contracting party to these international acts, and that her plenipotentiaries took a part therein, which is a sure guaranty of the intentions which to-day inspire the Belgian Government.</p>
 
 <p>In making this reply to Sir A. Hardinge and to Mr. Wilson, Mr. Davignon animated by the same sentiments which have called forth the unofficial communication of their excellencies, and he attaches to it the same friendly and private character.</p>
 
@@ -277,7 +309,7 @@ John Ridgely Carter.</p>
 
 <p>First, the Domain or Foundation of the Crown—which is only another name for the regime implanted by the King in the Kongo, which, it is alleged, is responsible for the conditions which have provoked international protest and action —- is suppressed, and the Sovereign's autocratic rule of these regions, through a system of secret bureaucracy, is ended.</p>
 
-<p>Second, the Government of the Kongo, through a responsible ministry with parliamentary control of the budget, in accordance with a colonial law framed under the pressure of an active and vigilant Belgian, as well as international opinion, should make it certain that these regions, with the native population and vast natural resources, will be ruled and administered in harmony with the beneficent prescriptions of the Berlin and Brussels acts.</p>
+<p>Second, the Government of the Kongo, through a responsible ministry with parliamentary control of the budget, in accordance with a colonial law framed under the pressure of an active and vigilant Belgian, as well as international opinion, should make it certain that these regions, with the native population and vast natural resources, will be ruled and administered in harmony with the beneficent prescriptions of the <ref type="internal" target="llg.ber.001.01">Berlin</ref> and <ref type="internal" target="llg.con.015.01">Brussels</ref> acts.</p>
 
 <p>Assuming that the treaty of annexation will be approved by Parliament, the first of these objects has been attained, and from the constitution of the committee of seventeen, and the evident temper of the dominant majority in Parliament —- which has doubtless been quickened in its conscience by the influence of public opinion in America and England —- the second will not be long delayed.</p>
 
@@ -314,15 +346,15 @@ Henry Lane Wilson.</p>
 
 <head type="main">Consul General Smith to the Acting Secretary of State.</head>
 
-<head type="sub">American Consulate General, Boma, March 21, 1908.</head>
+<head type="sub">American Consulate General, <placeName key="con.bom" n="mapped"><settlement type="city">Boma</settlement></placeName>, March 21, 1908.</head>
 
 <p>Sir: I have the honor to inclose herewith a report on the political conditions of the upper Ituri district.</p>
 
-<p>In reference to this report, and for your further information, I beg to say the upper Ituri district is comprised within the region situated to the northeast of Stanleyville and west of Lake Albert in the basin of the Ituri and Aruwimi Rivers.</p>
+<p>In reference to this report, and for your further information, I beg to say the upper Ituri district is comprised within the region situated to the northeast of <placeName key="con.sta" n="mapped"><settlement type="city">Stanleyville</settlement></placeName> and west of <placeName key="lak.alb" n="mapped"><geogName type="lake">Lake Albert</geogName></placeName> in the basin of the <placeName key="riv.itu" n="mapped"><geogName type="lake">Ituri and Aruwimi Rivers</geogName></placeName>.</p>
 
-<p>In this region, which is exploited directly by the State, the Fondation de la Couronne has reserved to itself the rich mining district in the basin of the Aruwimi, where are located the gold mines of Kilo. Other mines are located at Panga in the same district, the gold being mostly alluvial. Exportations of gold from here in 1906 amounted to about $165,000, all of which would be for the account of the Fondation de la Couronne; or, in other words, for the King.</p>
+<p>In this region, which is exploited directly by the State, the Fondation de la Couronne has reserved to itself the rich mining district in the basin of the Aruwimi, where are located the gold mines of <placeName key="con.kil" n="mapped"><settlement type="city">Kilo</settlement></placeName>. Other mines are located at Panga in the same district, the gold being mostly alluvial. Exportations of gold from here in 1906 amounted to about $165,000, all of which would be for the account of the Fondation de la Couronne; or, in other words, for the King.</p>
 
-<p>I have the honor to call your particular attention to the conditions brought about by the excessive rubber tax imposed on the unfortunate natives in this district. The similarity between these conditions and those existing in the region visited by myself are worthy of note. It is no uncommon thing for the rubber gatherers to be eaten by leopards, which abound in many regions of the State, and I well recall the case of a native who had been thus eaten and whose remains —- what was left of them -- were brought to the State post at Yambata while I was there. The so-called police expeditions mentioned in the report are nothing more than armed raids for nonpayment of rubber taxes and for the purpose of securing laborers to work on the railroad from Kindu south to Portes d'Enfer.</p>
+<p>I have the honor to call your particular attention to the conditions brought about by the excessive rubber tax imposed on the unfortunate natives in this district. The similarity between these conditions and those existing in the region visited by myself are worthy of note. It is no uncommon thing for the rubber gatherers to be eaten by leopards, which abound in many regions of the State, and I well recall the case of a native who had been thus eaten and whose remains —- what was left of them -- were brought to the State post at Yambata while I was there. The so-called police expeditions mentioned in the report are nothing more than armed raids for nonpayment of rubber taxes and for the purpose of securing laborers to work on the railroad from <placeName key="con.kin" n="mapped"><settlement type="city">Kindu</settlement></placeName> south to Portes d'Enfer.</p>
 
 <p>I would further call your attention to that part of the report regarding the working of the Kilo mines by forced labor. This system is plainly contrary to the law, which provides (decree 3d June, 1906) for the recruitment of workmen for works decreed as being of public utility. I fail to see how the development of a gold mine for the personal benefit of the King can properly be called a work of public utility. The protest of the States attorney, however, as is noted in the report, did not meet with the approval of the higher authorities at Boma, and the practical enslavement of the native continues.</p>
 
@@ -338,7 +370,7 @@ Jas. A. Smith, Consul General.</p>
 
 <head type="sub">Information on Political Conditions in the Upper Ituri District.</head>
 
-<p>The territory to the north of the line Medje, Nepoko, Kilo, as far as Uele River, has never been subdued. It is inhabited by the belligerent tribes of the Mokudu, and Bafuasoma, who have never paid, nor do now, taxes to the State. This territory, however, has never been placed under the "regime militaire" (martial law), but, in accordance with the terms of the decree of June 3, 1906, so-called police expeditions are constantly being made into the district by the authorities. These expeditions, in some of which ---- ---- was present, are conducted with the greatest energy; entire villages are burned and the few prisoners taken are chained together by the neck and sent to forced labor on the railroad now building south from Kindu to Portes d'Enfer.</p>
+<p>The territory to the north of the line Medje, Nepoko, Kilo, as far as <placeName key="riv.uel" n="mapped"><geogName type="river">Uele River</geogName></placeName>, has never been subdued. It is inhabited by the belligerent tribes of the Mokudu, and Bafuasoma, who have never paid, nor do now, taxes to the State. This territory, however, has never been placed under the "regime militaire" (martial law), but, in accordance with the terms of the decree of June 3, 1906, so-called police expeditions are constantly being made into the district by the authorities. These expeditions, in some of which ---- ---- was present, are conducted with the greatest energy; entire villages are burned and the few prisoners taken are chained together by the neck and sent to forced labor on the railroad now building south from Kindu to Portes d'Enfer.</p>
 
 <p>The rest of the region comprised in the upper Ituri district, and which formerly paid taxes in rubber to the State, has revolted, the natives refusing to gather any more rubber. The tax on rubber has been a collective one, the villages furnishing a given quantity monthly, based upon the number of inhabitants.</p>
 
@@ -437,7 +469,7 @@ Henry Lane Wilson.</p>
 
 <p>My Government was not aware, until its attention was called by the correspondence between your department and this legation, that the right of any class of American Christian missionaries to purchase lands for missionary sites and schools in the Belgian Kongo had ever been questioned, denied, or limited, and it regrets that such clear and definite rights, secured by solemn treaties, must be made the subject of diplomatic correspondence.</p>
 
-<p>The rights of American Christian missionaries are fully set forth and de¬scribed in the language of articles 2 and 4 of our treaty of amity, commerce, and navigation of 1891, and the guaranties therein contained can not be abrogated, suspended, or delayed.</p>
+<p>The rights of American Christian missionaries are fully set forth and de¬scribed in the language of articles 2 and 4 of our <ref type="internal" target="llg.ber.056.01">treaty of amity, commerce, and navigation of 1891</ref>, and the guaranties therein contained can not be abrogated, suspended, or delayed.</p>
 
 <p>While I am sensible that our rights, under the existing treaties, will be fully recognized by Belgium, and while I appreciate in some measure the difficulties of affording a satisfactory solution at this period of transition, when the Kongo government is possibly on the eve of being transferred to another power, I must nevertheless beg you to be good enough to give me the formal assurance that in the event the annexation bill now pending before Parliament shall fail of adoption during the present session the consideration and settlement of this question will not be further postponed.</p>
 
@@ -459,7 +491,7 @@ Henry Lane Wilson.</p>
 
 <p>I have the honor to advise your excellency that if events should occur as you anticipate the Government of the Independent State of the Kongo would consider that the circumstances to which I referred in my letter of February 7 would be modified, and it would naturally have to examine the measures to be taken that the decrees of June 3, 1906, providing for the sale or lease of lands belonging to the State should be executed without delay.</p>
 
-<p>Your excellency will permit me to add that the diplomatic correspondence which I had the honor to exchange with the legation of the United States has never put in question, nor contested or limited, the rights of American citizens in the Independent State of the Kongo, as stipulated by the treaty of January 24, 1891, and particularly by articles 2 and 4, and that the Government of the Kongo State does not intend to evade any of its international obligations, either in their tenor or bearing.</p>
+<p>Your excellency will permit me to add that the diplomatic correspondence which I had the honor to exchange with the legation of the United States has never put in question, nor contested or limited, the rights of American citizens in the Independent State of the Kongo, as stipulated by the <ref type="internal" target="llg.ber.056.01">treaty of January 24, 1891</ref>, and particularly by articles 2 and 4, and that the Government of the Kongo State does not intend to evade any of its international obligations, either in their tenor or bearing.</p>
 
 <p>I avail, etc.,<lb/>
 Che. de Cuvelier.</p>
@@ -499,7 +531,7 @@ Henry Lane Wilson.</p>
 
 <p>Monsieur le Chevalier: I duly transmitted to His Majesty's secretary of state for foreign affairs the note which you did me the honor to address to me on the 21st ultimo respecting sites for British Christian missions in the Independent Kongo State, and I reported to him the verbal exchange of views which had taken place between us on this question.</p>
 
-<p>Sir Edward Grey has approved of the stress laid by me on the rights to the acquisition of landed property in the Kongo State guaranteed by it to British subjects under article 2 of the convention of 1884 between Great Britain and the International Association of the Kongo; but In view of the considerations set forth by you he has merely instructed me to require from the Kongo Government a formal assurance that if the annexation bill now before the Belgian Parliament is not passed before the close of its session in May next that Government will without further delay sell to the British missionary societies concerned sites in or near the localities which they have Indicated.</p>
+<p>Sir Edward Grey has approved of the stress laid by me on the rights to the acquisition of landed property in the Kongo State guaranteed by it to British subjects under article 2 of the <ref type="internal" target="llg.ber.001.01">convention of 1884</ref> between Great Britain and the International Association of the Kongo; but In view of the considerations set forth by you he has merely instructed me to require from the Kongo Government a formal assurance that if the annexation bill now before the Belgian Parliament is not passed before the close of its session in May next that Government will without further delay sell to the British missionary societies concerned sites in or near the localities which they have Indicated.</p>
 
 <p>I should be grateful, Monsieur le Chevalier, for a reply at your earliest convenience to this note, to which I have the honor to annex a translation, and I avail myself of this opportunity to renew to you the assurance of my high consideration.</p>
 
@@ -563,7 +595,7 @@ Henry Lane Wilson.</p>
 
 <head type="sub">Memorandum.</head>
 
-<p>The nota pro memoria, re the attitude of Belgium in the event of the annexation of the Kongo, handed this legation on January 29 by His Excellency M. Davignon, was duly transmitted to Washington, and the assurances therein contained of the earnest purpose of the Belgian Government, in the event that the government and administration of the Kongo should be transferred to it, to fully carry out the stipulations and beneficent prescriptions of the acts of Berlin and Brussels, were noted with lively satisfaction.</p>
+<p>The nota pro memoria, re the attitude of Belgium in the event of the annexation of the Kongo, handed this legation on January 29 by His Excellency M. Davignon, was duly transmitted to Washington, and the assurances therein contained of the earnest purpose of the Belgian Government, in the event that the government and administration of the Kongo should be transferred to it, to fully carry out the stipulations and beneficent prescriptions of the acts of <ref type="internal" target="llg.ber.001.01">Berlin</ref> and <ref type="internal" target="llg.con.015.01">Brussels</ref>, were noted with lively satisfaction.</p>
 
 <p>In the entirely amicable and unofficial representation preceding, and which gave occasion to the note pro memoria, it was not the intention of the Government of the United States to in any way call into question the high and disinterested purposes which, it is satisfied, govern Belgium in the consideration of the question of the annexation of the Kongo territories. On the contrary, the Government of the United States, finding that much is left to be desired in the present administration of the Kongo from the standpoint of the acts of Brussels and Berlin, gladly welcomes annexation, and is firmly convinced that the assumption of the government of these regions by Belgium will be followed by improvement in the condition of the native races, by the development and civilization of the country, and by the liberation of trade and commerce from harmful restrictions.</p>
 
@@ -581,7 +613,7 @@ Henry Lane Wilson.</p>
 4. To make It possible for traders and settlers of all nationalities to secure unoccupied tracts of land, needed for the prosecution and development of peaceful commerce, at reasonable prices, in any part of the Kongo.<lb/>
 5. The procurement and guaranty of equal and exact justice to all inhabitants of the Kongo through the establishment and maintenance of an independent judiciary.</p>
 
-<p>In calling attention to what, in its opinion, should be the objects of reform in the Kongo, the Government of the United States may be permitted to add, on its own account, that, relying on the stipulations of articles 2 and 4 of the treaty of 1891, it would be especially pleased to see the right accorded to American Christian missionaries to secure reasonable sized tracts of land, when not occupied by the State, in permanent holding, to be used for missionary sites and schools.</p>
+<p>In calling attention to what, in its opinion, should be the objects of reform in the Kongo, the Government of the United States may be permitted to add, on its own account, that, relying on the stipulations of articles 2 and 4 of the <ref type="internal" target="llg.ber.056.01">treaty of 1891</ref>, it would be especially pleased to see the right accorded to American Christian missionaries to secure reasonable sized tracts of land, when not occupied by the State, in permanent holding, to be used for missionary sites and schools.</p>
 
 <p>The Government of the United States confines itself in this memorandum to pointing out the direction in which, in its judgment, radical reforms and changes are needed. It does not believe that it is incumbent upon it to indicate or suggest to the Belgian Government the modus operandi for carrying these reforms into execution, well knowing the difficulties that must be surmounted and being fully cognizant of the unselfish purposes of the annexing power. Its representations are conceived and made in an entirely friendly spirit and it is hoped that they will receive that measure of consideration from the Belgian Government to which they are entitled by their disinterestedness and by the long and traditional friendship which has existed between the two countries.</p>
 

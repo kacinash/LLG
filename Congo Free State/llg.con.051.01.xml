@@ -77,7 +77,11 @@
 </keywords> 
  
 <keywords scheme="original" n="places">
-<term/>
+<term>Congo River</term>
+<!--<term>Lake Tanganyika</term>--> <!-- not in document! -->
+<!--<term>Nile River</term>--> <!-- not in document! -->
+<term>Sudan</term>
+<term>Uganda</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -141,12 +145,10 @@ render him capable of any task which
 required simply resourcefulness, energy,
 and faithfulness to duty.</p>
 
-<gap reason="sampling" extent="about ten paragraphs">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about ten paragraphs"/>
 
-<p>After leaving Uganda, Stanley went
-to the headwaters of the Congo and
+<p>After leaving <placeName key="uga" n="mapped"><country type="nation">Uganda</country></placeName>, Stanley went
+to the headwaters of the <placeName key="riv.con" n="mapped"><geogName type="river">Congo</geogName></placeName> and
 followed the river in its downward
 course, until, three years after leaving
 the Indian Ocean, he gazed upon the
@@ -169,7 +171,7 @@ virtuous men and women. His aim was
 as pure and high as Livingstone's. But
 as a means, he looked not alone to the
 efforts of isolated missionaries, but to
-the influx of great tides· of beneficent
+the influx of great tides of beneficent
 activities."</p>
 
 <p>At first he had hoped that the
@@ -217,12 +219,12 @@ the aid of "Gordon Pasha," who had
 arranged to take the governorship of
 the Lower Congo, under Stanley, who
 was to govern the Upper Congo; and,
-together, they were to destroy the sla vetrade
+together, they were to destroy the slave trade
 at its roots. General Gordon
 wrote a letter to him in which he said
 that he should be happy to serve under
 him and work according to his ideas.
-But the call of the Sudan came just at
+But the call of the <placeName key="uga" n="mapped"><country type="nation">Sudan</country></placeName> came just at
 this time, and the new state was deprived
 of the services of one who might
 possibly have changed for the better
@@ -250,9 +252,7 @@ has been appropriated by the great
 powers of Europe, - England, Germany,
 France, and Belgium.</p>
 
-<gap reason="sampling" extent="about four pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<gap reason="sampling" extent="about four pages"/>
 
 </div1>
 

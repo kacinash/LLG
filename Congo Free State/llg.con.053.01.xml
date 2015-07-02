@@ -69,7 +69,18 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Bacon, Robert, 1860-1919</term>
+<term>Beernaert, A. (Auguste), 1829-1912</term>
+<term>Cattier, Félicien</term>
+<term>Chevalier de Cuvelier</term>
+<term>Denby, Edwin, 1870-1929</term>
+<term>Léopold II, King of the Belgians, 1835-1909</term>
+<term>McLean, Archibald, 1850-1920</term>
+<term>Paul Joseph, Count de Smet de Naeyer</term>
+<term>Root, Elihu, 1845-1937</term>
+<term>Vandervelde, Émile, 1866-1938</term>
+<term>Wiener, Samson</term>
+<term>Wilson, Henry Lane, 1857-1932</term>
 </keywords>
  
 <keywords scheme="original" n="labels">
@@ -77,7 +88,18 @@
 </keywords> 
  
 <keywords scheme="original" n="places">
-<term/>
+<term>Bolgeni (Congo)</term> <!-- not encoded for mapping; could not locate -->
+<term>Congo Free State</term>
+<term>Coquilhatville (Congo)</term>
+<term>Domaine Privé</term> <!-- not encoded for mapping at this time -->
+<term>Maringa (Congo)</term> <!-- not encoded for mapping; could not locate -->
+<term>Mongola (Congo)</term> <!-- not encoded for mapping; could not locate -->
+<term>Wangata (Congo)</term> 
+</keywords>
+
+<keywords scheme="original" n="organization">
+<term>Belgian House of Representatives</term>
+<term>Foreign Christian Missionary Society</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -107,6 +129,8 @@
 
 <text>
 
+<!-- In this document, mapping points are only encoded as placeName with n=mapped once where it first appears, even though it might reappear numerous times throughout this lengthy document - because right now, link is only to document, not location in document where mapping point appears. --> 
+
 <group>
 
 <text type="report" xml:id="llg.con.053.001.d001">
@@ -134,11 +158,11 @@ Robert Bacon.</p>
 
 <head type="sub">Department of State, Washington, February 20, 1906.</head>
 
-<p>Dear sir: I have your letter of the 15th regarding the widespread feeling among your constituents that our Government ought to do something to bring about an International Inquiry with a view to authoritative adjudication of the Issues to which the conditions supposed to exist in the Kongo Free State are related.</p>
+<p>Dear sir: I have your letter of the 15th regarding the widespread feeling among your constituents that our Government ought to do something to bring about an International Inquiry with a view to authoritative adjudication of the Issues to which the conditions supposed to exist in the <placeName key="con" n="mapped"><country type="colony">Kongo Free State</country></placeName> are related.</p>
 
 <p>Your inquiry expresses the difficulty in the way. It is not clear that the United States is in a position to bring about such an international inquiry and adjudication. We are parties to a general act for the suppression of the slave trade and the regulation of the firearms and liquor traffics in central Africa, but that act relegates and confines all power and functions to those ends to the several powers having possessions or spheres of influence in Africa. The United States has neither, and its participation in the general act was on the distinct understanding that we had no territorial or administrative interest in that quarter. Our only potential function is in relation to the search and capture of slave vessels within certain waters of the African coast, and no occasion has arisen to exercise that function.</p>
 
-<p>We are not parties to the other more commonly cited general act of the Kongo (signed at Berlin on February 26, 1885). Our treaty relation to the Kongo State is that of one sovereign to another, wholly independent of any relations created by or deducible from the general act of Berlin, which applies only to its signatories. It is questionable whether the treaty rights of the signatories extend to intervention by any one or more pf them in the internal affairs of any of them. The Kongo State absolutely denies any right on their part to intervene in its affairs, and none of the other signatory powers appears to controvert that denial. However this may be, it is certain that the United States has no treaty right of intervention. We could not rightfully summon or participate in any international conference looking to intervention, adjudication, or enforcement of a general accord by other African powers against the Kongo State.</p>
+<p>We are not parties to the other more commonly cited general act of the Kongo (signed at Berlin on February 26, 1885). Our treaty relation to the Kongo State is that of one sovereign to another, wholly independent of any relations created by or deducible from the <ref type="internal" target="llg.ber.001.01">general act of Berlin</ref>, which applies only to its signatories. It is questionable whether the treaty rights of the signatories extend to intervention by any one or more pf them in the internal affairs of any of them. The Kongo State absolutely denies any right on their part to intervene in its affairs, and none of the other signatory powers appears to controvert that denial. However this may be, it is certain that the United States has no treaty right of intervention. We could not rightfully summon or participate in any international conference looking to intervention, adjudication, or enforcement of a general accord by other African powers against the Kongo State.</p>
 
 <p>Moreover, we are without opportunity or power to investigate conditions In the Kongo. We have no diplomatic or consular representatives in that country. We could not send anyone there except with the consent of the Government of the Kongo -- to do otherwise would be an Invasion of Its sovereignty. Other powers, being parties to the general act of Berlin, have made investigation through their authorized representatives, and the Kongo Government also has sent Investigating commissions. The information we have on the subject of Kongo misrule comes at second hand through opposed channels.</p> 
 
@@ -176,7 +200,7 @@ Elihu Root.</p>
 
 <p>On February 20 the leader of the Socialist party, Mr. Vandervelde, interpellated the Government as to its attitude toward the charges contained in Mr. Cattier's book and made his interpellation the occasion for a fierce and eloquent attack upon the administration of the Kongo.</p>
 
-<p>Making Mr. Cattier's book the text of his speech, Mr. Vandervelde directly charged the Kongo administration with the maintenance of the institution of domestic slavery in the Kongo regions; with cruel and barbarous practices toward the native tribes; with a system of taxation amounting practically to confiscation; with violation of the stipulations of the treaty of Berlin guaranteeing  equal trade facilities and rights to all nations; with perversion of the revenues derived from Belgian loans to the Kongo to the King's private exchequer; with subornation of the press, and the maintenance of an organized bureau of corruption. It is regarded here as peculiarly significant and as confirming in a large measure the serious charges contained in the book of Mr. Cattier, that after interpellation the Government should have made no reply to his radical and serious charges, except in the way of simple denial.</p>
+<p>Making Mr. Cattier's book the text of his speech, Mr. Vandervelde directly charged the Kongo administration with the maintenance of the institution of domestic slavery in the Kongo regions; with cruel and barbarous practices toward the native tribes; with a system of taxation amounting practically to confiscation; with violation of the stipulations of the <ref type="internal" target="llg.ber.001.01">treaty of Berlin</ref> guaranteeing  equal trade facilities and rights to all nations; with perversion of the revenues derived from Belgian loans to the Kongo to the King's private exchequer; with subornation of the press, and the maintenance of an organized bureau of corruption. It is regarded here as peculiarly significant and as confirming in a large measure the serious charges contained in the book of Mr. Cattier, that after interpellation the Government should have made no reply to his radical and serious charges, except in the way of simple denial.</p>
 
 <p>After some days of discussion, Mr. Beernaert, minister of state and conservative deputy, offered the following resolution: 
 
@@ -205,11 +229,11 @@ The author starts out with a statement that the existing maladministration of th
 
 <q> The following letter, published by Consul Casement in his report, is worthy of production In this connection:</q>
  
-<q>"The chief N'Gulu, of Wangata, is sent to Maringa to buy slaves for me. I beg the agents of the Abir (a commercial organization) to kindly report to me any wrongs he may commit while en route.</q>
+<q>"The chief N'Gulu, of <placeName key="con.wan" n="mapped"><settlement type="city">Wangata</settlement></placeName>, is sent to Maringa to buy slaves for me. I beg the agents of the Abir (a commercial organization) to kindly report to me any wrongs he may commit while en route.</q>
 
 <q>"(S.) Sarrazzyn.<lb/> 
 "The Commandant, 
-"Coquilhatville, May 1, 1896."</q></p>
+"<placeName key="con.wan" n="mapped"><settlement type="city">Coquilhatville</settlement></placeName>, May 1, 1896."</q></p>
 
 <p>It is admitted that since 1896 there has been an improvement in many ways, but the author states, and seems to prove, that taxation has steadily increased and is now exorbitant.</p>
 

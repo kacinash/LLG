@@ -412,13 +412,13 @@ Individual Document Pages
    
 
    <xsl:if test="string(/TEI/teiHeader/profileDesc/textClass/keywords[@n='organization']/term[1])">
-    <p>
-     <xsl:text>Ethnic Group</xsl:text>
+    <p><strong>
+     <xsl:text>Organization</xsl:text>
      <xsl:if
       test="count(/TEI/teiHeader/profileDesc/textClass/keywords[@n='organization']/term) &gt;= 2">
       <xsl:text>s</xsl:text>
      </xsl:if>
-     <xsl:text>:</xsl:text>
+     <xsl:text>: </xsl:text></strong>
      
      <xsl:for-each select="string(/TEI/teiHeader/profileDesc/textClass/keywords[@n='organization']/term[1])">
       <xsl:if test="string(.)">
@@ -441,13 +441,13 @@ Individual Document Pages
 
 
    <xsl:if test="string(/TEI/teiHeader/profileDesc/textClass/keywords[@n='ethnic_group']/term[1])">
-    <p>
+    <p><strong>
      <xsl:text>Ethnic Group</xsl:text>
      <xsl:if
       test="count(/TEI/teiHeader/profileDesc/textClass/keywords[@n='ethnic_group']/term) &gt;= 2">
       <xsl:text>s</xsl:text>
      </xsl:if>
-     <xsl:text>:</xsl:text>
+     <xsl:text>: </xsl:text></strong>
      
      <xsl:for-each select="string(/TEI/teiHeader/profileDesc/textClass/keywords[@n='ethnic_group']/term[1])">
       <xsl:if test="string(.)">
@@ -475,7 +475,7 @@ Individual Document Pages
       test="count(/TEI/teiHeader/profileDesc/textClass/keywords[@n='language']/term) &gt;= 2">
       <xsl:text>s</xsl:text>
      </xsl:if>
-     <xsl:text>:</xsl:text>
+     <xsl:text>: </xsl:text>
      
      <xsl:for-each select="string(/TEI/teiHeader/profileDesc/textClass/keywords[@n='language']/term[1])">
       <xsl:if test="string(.)">
@@ -503,7 +503,7 @@ Individual Document Pages
       test="count(/TEI/teiHeader/profileDesc/textClass/keywords[@n='religion']/term) &gt;= 2">
       <xsl:text>s</xsl:text>
      </xsl:if>
-     <xsl:text>:</xsl:text>
+     <xsl:text>: </xsl:text>
      
      <xsl:for-each select="string(/TEI/teiHeader/profileDesc/textClass/keywords[@n='religion']/term[1])">
       <xsl:if test="string(.)">

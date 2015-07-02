@@ -76,12 +76,12 @@
 <term>Brazza, Pierre Savorgnan de, 1852-1905</term>
 <term>Brown, James M.</term>
 <term>Charles III, King of Spain, 1716 1788</term>
-<term>Cavelier de Cuverville, 1834-1912</term>
 <term>Chief of Kabenda</term>
 <term>Chief of Melemba</term>
 <term>Clarendon, George William Frederick Villiers, Earl of, 1800-1870</term>
 <term>Clay, Henry, 1777-1852</term>
 <term>Coppinger, William, 1828-1892</term>
+<term>Elliott, John Grant</term>
 <term>Evarts, Jeremiah, 1781-1831</term>
 <term>Frelinghuysen, Frederick T. (Frederick Theodore), 1817-1885</term>
 <term>Gladstone, W. E. (William Ewart), 1809-1898</term>
@@ -91,7 +91,7 @@
 <term>James, Henry James, Baron, 1828-1911</term>
 <term>King of Loango</term>
 <term>Laveleye, &#201;mile de, 1822-1892</term>
-<term>L&#233;opold II, King of the Belgians, 1835-1909</term>
+<term>Léopold II, King of the Belgians, 1835-1909</term>
 <term>Low, Abiel Abbot, 1811-1893</term>
 <term>Makoko, King of the Batekes</term>
 <term>Manipembo, Chief</term>
@@ -204,6 +204,8 @@
 </teiHeader>
 
 <text>
+
+<!-- In this document, every time JEJ marked a mapping point, it was encoded as a placeName with n=mapped. This results in the same mapping point with a placeName with n=mapped appearing multiple times throughout this lengthy document. --> 
  
 <group>
 
@@ -912,7 +914,7 @@ opposite which is Embomba, at each of which places there is also a trading facto
 
 <p>If the Portuguese are to be allowed any sovereignty rights north of Ambriz, which rights they are trying to get recognized by the British Government, they will soon find means of setting aside promises which they may now make, just as they have done in the case of Ambriz, and impose similar duties to those paid at Angola.</p>
 
-<p>"Besides all these duties and taxes, the delays experienced at the custom-houses. in Angola and Ambriz, and the impositions practiced by their officers (most of whom have only small salaries and depend to a great extent on fees charged for the clearance of vessels and on goods exported and imported) are the great cause of the non- prosperity of the Portuguese ports, compared with the Congo and all the other places north of Ambriz, at present neutral. If a merchant at <placeName key="ang.lua" n="mapped"><settlement type="city">Loando</settlement></placeName></placeName>, or at any of the other- places occupied by the Portuguese, requires to send an open boat of three or four tons burden to any of his factories within the said territory, it takes him, in most instances, from two to three days to clear this boat at the custom-house and other. Government offices. Goods also that have already passed the custom-house, paid the duties, and been warehoused in the merchants' stores, have, when it is necessary to send them by any of the above-mentioned boats to the factories, to be taken to. the custom-house yard, which is the only place whence such shipments arc permitted to be made, and there again cleared, necessitating the payment of further fees to the officers for clearing and being present at their shipment. All these requirements of the custom-house involve the payment of further fees by the merchants, and the loss„ of time and money caused by the innumerable impositions is only too well known to. every one engaged in the trade."</p>
+<p>"Besides all these duties and taxes, the delays experienced at the custom-houses. in Angola and Ambriz, and the impositions practiced by their officers (most of whom have only small salaries and depend to a great extent on fees charged for the clearance of vessels and on goods exported and imported) are the great cause of the non- prosperity of the Portuguese ports, compared with the Congo and all the other places north of Ambriz, at present neutral. If a merchant at <placeName key="ang.lua" n="mapped"><settlement type="city">Loando</settlement></placeName>, or at any of the other- places occupied by the Portuguese, requires to send an open boat of three or four tons burden to any of his factories within the said territory, it takes him, in most instances, from two to three days to clear this boat at the custom-house and other. Government offices. Goods also that have already passed the custom-house, paid the duties, and been warehoused in the merchants' stores, have, when it is necessary to send them by any of the above-mentioned boats to the factories, to be taken to. the custom-house yard, which is the only place whence such shipments arc permitted to be made, and there again cleared, necessitating the payment of further fees to the officers for clearing and being present at their shipment. All these requirements of the custom-house involve the payment of further fees by the merchants, and the loss„ of time and money caused by the innumerable impositions is only too well known to. every one engaged in the trade."</p>
 
 <p>After this the trade at Ambriz languished to such a degree as to be of little or no importance.</p>
 
